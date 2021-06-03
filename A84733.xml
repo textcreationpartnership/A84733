@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe relation of the late horrid rebellion acted in the island Barbadas, in the West-Indies wherein is contained, their inhumane acts and actions, in fining and banishing the well-affected to the Parliament of England (both men and women) without the least cause given them so to doe: dispossessing all such as any way opposed these their mischievous actions. Acted by the Waldronds and their abettors, anno 1650. Written at sea by Nicholas Foster.</title>
+            <author>Foster, Nicholas.</author>
+         </titleStmt>
+         <extent>Approx. 139 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84733</idno><idno type="EEBO-CITATION">99868054</idno>
+  <idno type="VID">169837</idno>
+  <idno type="EEBO-PROQUEST">2248511537</idno>
+  
+            <idno type="STC">Wing F1627</idno>
+            <idno type="STC">Thomason E1358_3</idno>
+            <idno type="STC">ESTC R209164</idno>
+            <idno type="PROQUEST">99868054</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868054e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169837)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1358[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe relation of the late horrid rebellion acted in the island Barbadas, in the West-Indies wherein is contained, their inhumane acts and actions, in fining and banishing the well-affected to the Parliament of England (both men and women) without the least cause given them so to doe: dispossessing all such as any way opposed these their mischievous actions. Acted by the Waldronds and their abettors, anno 1650. Written at sea by Nicholas Foster.</title>
+                  <author>Foster, Nicholas.</author>
+               </titleStmt>
+               <extent>[4], 44, 43-112 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.G. for Richard Lowndes on Ludgate-hill: and Robert Boydell in the Bulwarke neere the Tower,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCL. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Barbados --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169837:1"/>
+            <p>A BRIEFE RELATION OF THE LATE HORRID REBELLION Acted in the Island <hi>BARBADAS,</hi> In the <hi>West-Indies.</hi>
+            </p>
+            <p>
+               <hi>Wherein is contained,</hi> Their Inhumane Acts and Actions, in Fining and Banishing the Well-affected to the Parliament of <hi>England</hi> (both men and women) with<g ref="char:EOLhyphen"/>out the least cause given them so to doe: Dispossessing all such as any way op<g ref="char:EOLhyphen"/>posed these their mischievous actions.</p>
+            <p>
+               <hi>Acted by the</hi> Waldronds <hi>and their Abettors,</hi> Anno 1650.</p>
+            <p>Written at Sea by <hi>Nicholas Foster.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. G.</hi> for <hi>Richard Lowndes</hi> on Ludgate-hill: and <hi>Robert Boydell</hi> in the Bulwarke neere the Tower. <hi>M DC L.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169837:2"/>
+            <pb facs="tcp:169837:2"/>
+            <head>READER,</head>
+            <lg>
+               <l>IF thou art pleased here to fix thine eye,</l>
+               <l>Thou mayst behold <hi>Barbada's</hi> Infancie,</l>
+               <l>And what small signs of future fortunes there</l>
+               <l>To the Inhabitants did then appear.</l>
+               <l>The Merchant he is weary of supplying,</l>
+               <l>And this poore Infant Isle, lyes now a dying:</l>
+               <l>But whilst it faintly laboureth for breath,</l>
+               <l>Expecting nothing lesse then sudden death,</l>
+               <l>Some there of worth and ingenuity,</l>
+               <l>With care did study its Recovery:</l>
+               <l>And being by Gods Providence directed,</l>
+               <l>The same (in time) was happily effected;</l>
+               <l>So that its sicknesse suddenly is ceasing,</l>
+               <l>And in it Health &amp; Wealth is so increasing,</l>
+               <l>That now <hi>Barbada's</hi> far exceeds the rest,</l>
+               <l>And is beco<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Glory of the West:</l>
+               <l>But whilst it is triumphing in its glory,</l>
+               <l>Behold a dolefull and intestine story</l>
+               <pb facs="tcp:169837:3"/>
+               <l> Of an abhorred and Rebellious crew,</l>
+               <l>Who take up Arms, the Honest to subdue;</l>
+               <l>And all that will not to their Acts consent,</l>
+               <l>Must pay great Fines, and suffer Banishment;</l>
+               <l>They must leave their Estates, &amp; all relation,</l>
+               <l>And returne Exiles to their native Nation:</l>
+               <l>Where now we are, subjected by the Fates,</l>
+               <l>Whilst Rebels are consuming our Estates.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169837:3"/>
+            <head>A BRIEFE RELATION Of the late Horrid <hi>REBELLION,</hi> Acted in the Island <hi>BARBADAS</hi> in the <hi>West-Indies,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough this Island is now be<g ref="char:EOLhyphen"/>come famous, by reason of the Rich Commodities there pro<g ref="char:EOLhyphen"/>duced; Yet in regard it is but of late yeeres that it hath been had in such high estimation, we shall give you a briefe relation of its former estate and condition, and how it hath attained to that height it is now in.</p>
+            <p>Not many yeares since, this Island was in a very low condition, in regard the Commodities (then there produced) were onely Tobaccoes
+<pb n="2" facs="tcp:169837:4"/> and Cotton-wools, which (by reason of the great quantities transported from thence, and other places) was of very small value: Insomuch that Merchants begun to neglect the supplying of it in so large a manner as formerly they had done, which presented it in a declining condition, and small hopes appeared of raising any fortunes there for the future, the Inhabitants (being so wearied out with the small profits they reaped of their toylsome labours) daily run from the Island in Boats, being very much indebted both to the Merchants, and also to one another.</p>
+            <p>The decaying condition of this Island (so plainly appearing) some of ingenious spirits set their wits at worke to consider which way the desolation of this Plantation might be preven<g ref="char:EOLhyphen"/>ted; which could not possibly be effected, with<g ref="char:EOLhyphen"/>out the producing of some richer commodities to invite the Merchant to supply them.</p>
+            <p>And considering <hi>Sugar</hi> was not the least of commodities, (finding the scituation of the place promising that way) resolved to make tryall thereof, and accordingly did; and with divers yeeres paines, care, patience, and industry, with the disbursing of vast summes of money, brought the same to perfection. The Originall whereof were some that now are forced from thence, and unjustly compelled to leave their relations and estates; who communicating their knowledge
+<pb n="3" facs="tcp:169837:4"/> therein to others, caused a farther going upon this designe, insomuch that in few yeares there was a considerable number of works erected, so that (for these divers years last past) there hath been, and is, a very faire Correspondency held with <hi>England,</hi> New <hi>England, Holland, Hambrough,</hi> and other places, many both Mer<g ref="char:EOLhyphen"/>chants (and others) having thereby raised them<g ref="char:EOLhyphen"/>selves very considerable Fortunes. There being many Millions of <hi>Sugars</hi> transported from thence yearely, and the number of Ships that come yearely to that Island, not lesse then a hundred Sayle; the commodities (being not onely <hi>Sugar)</hi> but also <hi>Indico, Ginger,</hi> with <hi>Cotton<g ref="char:EOLhyphen"/>wools,</hi> and some small quantities of <hi>Tobacco.</hi>
+            </p>
+            <p>All the time of <hi>Englands</hi> troubles we retain<g ref="char:EOLhyphen"/>ed peace amongst us, (though not without heart-burnings from those of the Kings party, towards those that wished the Parliaments pro<g ref="char:EOLhyphen"/>sperity) and although Commissions came over, (some from the King, and others from the Par<g ref="char:EOLhyphen"/>liament) yet we considering that it could not any way conduce to their advantage, (for us to to have Parties and Sidings amongst us) con<g ref="char:EOLhyphen"/>clude rather to imbrace Neutrality, and accor<g ref="char:EOLhyphen"/>dingly doe, holding a very faire Correspon<g ref="char:EOLhyphen"/>dency each with other for severall years toge<g ref="char:EOLhyphen"/>ther with great content.</p>
+            <p>Towards the latter end of the Warrs, (when
+<pb n="4" facs="tcp:169837:5"/> the Sun of the Cavaliers expected Conquest, be<g ref="char:EOLhyphen"/>gun to be retrograde, and God was pleased to shew himselfe, highly countenancing the Parli<g ref="char:EOLhyphen"/>aments Forces; and by his (ever to be ho<g ref="char:EOLhyphen"/>noured) Instruments began to vanquish the Ca<g ref="char:EOLhyphen"/>valre, divers of them came over to our Island, pretending to have done great service for his Majesty, and that therefore the Parliament had Sequestred their Estates, and themselves forced to fly for Refuge.</p>
+            <p>These men were by the Governor (and o<g ref="char:EOLhyphen"/>thers of their owne Spirits, who had the Go<g ref="char:EOLhyphen"/>vernment in their hands) very courteously Im<g ref="char:EOLhyphen"/>braced, and looked upon as the men onely truly deserving, in so much that in short time, they begin to possesse Estates, (though other mens) and by the subtile practicing of <hi>Absalons</hi> pol<g ref="char:EOLhyphen"/>licy, began to insinuate themselves into the peo<g ref="char:EOLhyphen"/>ples favour, and to gaine the esteeme and repute of the onely knowing men; Insomuch that not<g ref="char:EOLhyphen"/>withstanding their little or no knowlodge of the Country, the People, (or the Estate or con<g ref="char:EOLhyphen"/>dition of either) they must and were made Counsellers, and no Seate could become them to Sit in, but at the helme of State; And now the ship of that flourishing Common-wealth must run what course they please.</p>
+            <p>But this is not all, after their advance to this height of Eminency; they are upon new
+<pb n="5" facs="tcp:169837:5"/> designes, and (under pretence they had received Letters from <hi>England,</hi> that the <hi>Spaniard</hi> would visite us) the Country must be put in a posture of Warre, themselves being Commanders in chiefe, creates such inferiour Officers under them (as resembling a nose of wax was subject to stand any way they pleased to set it) and fit to receive any Impression they should put upon it.</p>
+            <p>Having fitted themselves for their intended progresse, they begin to Act in a very high na<g ref="char:EOLhyphen"/>ture, and with no lesse severity then cruelty be<g ref="char:EOLhyphen"/>gin to prosecute all such persons as any way seemed to declare their approbations of the Parliaments proceedings against the King; cut<g ref="char:EOLhyphen"/>ting out of tongues, Stigmatizing and Banishing all such persons, as they had any thing against concerning him.</p>
+            <p>These things (how unjust soever deemed and apprehended by many) yet for quietnesse sake were passed by, and not publikely spoke against by any.</p>
+            <p>These new-modell'd Magisters being very active in their places, (and no lesse studious how to pick a quarrell with the Parliaments friends in generall, then formerly they had beene ex<g ref="char:EOLhyphen"/>treame in Executing their pleasures upon some in particular) set their wits at work which way they should bring these their designes to per<g ref="char:EOLhyphen"/>fection;
+<pb n="6" facs="tcp:169837:6"/> And (not finding the least symptome or appearance of any cause given them by those they would so gladly quarrell withall) were very much at a stand; but at length resolve upon the businesse, and from amongst them<g ref="char:EOLhyphen"/>selves, <hi>viz.</hi> the Counsell and Assembly, make choyce of a certaine number of such persons, (as were most subject to conception, after a recep<g ref="char:EOLhyphen"/>tance of Sathans seede) giving them power to sit in Counsell, and to prescribe a way to the rest, how to accomplish their so earnest de<g ref="char:EOLhyphen"/>sires.</p>
+            <p>These Commissioners (as we must call them, for they will not be called a Committee) having conceived, instead of a Manchild brought forth a Monster called <hi>Present Banishment;</hi> conclu<g ref="char:EOLhyphen"/>ding that Forces should be raised and kept a<g ref="char:EOLhyphen"/>foot, till all such as they pleased to nominate were sent off the Island.</p>
+            <p>But ere they begin to fall into extremity, (to be delivered) they sweare each other to secrecy, that whatsoever was nominated or propounded in their time of private Consultation, should not be revealed to any whatsoever.</p>
+            <p>After their deliverance (when conveniency of time presented) this monster was presented to the Governour, Counsell and Assembly, (first swearing them) that if what they had to present them withall should not be approved of and
+<pb n="7" facs="tcp:169837:6"/> accepted, they should not reveale the same, nor any one particular that should occasionally passe amongst them, swearing to prosecute that par<g ref="char:EOLhyphen"/>ty to death that should divulge their secrets in any of these particulars.</p>
+            <p>This is concluded on. And now it onely re<g ref="char:EOLhyphen"/>maines to be disputed, whether the fruits of their conception, great travell, and tedious paynes, is fit to have admittance, or whether to be buried in the grave of oblivion, as an abortive, or rather an abominable birth.</p>
+            <p>A long discourse is entertained upon this sub<g ref="char:EOLhyphen"/>ject; And the Parents of this new birth, being much taken with it, and though it appeared, and was a Monster in the esteeme of others, yet being the fruits of their Travells it appeared a Child to them. And therefore no Arguments must prevaile against its acceptance, yet at last (though with much difficulty) it was dis-owned totally, for this reason; That to banish men, and show no cause, nor appearance of cause, neither any pretence of cause, would be a thing apprehended of all to be ridiculous, and might cause a too quick discovery of their intentions.</p>
+            <p>Before we proceede any further in this our intended Discourse, it will be necessary to an<g ref="char:EOLhyphen"/>swer an Objection which haply some may make thus.</p>
+            <p>Object.</p>
+            <p>How we came to know their private
+<pb n="8" facs="tcp:169837:7"/> Conferences had together; they having sworne each other to secrecy, and further to prosecute that man to death that should reveale any one particular.</p>
+            <p>
+               <hi>Ans.</hi> Our answer to this Objection is; That L<seg rend="sub">t</seg>. C <hi>C. C.</hi> one of themselves was the discover<g ref="char:EOLhyphen"/>er of these and many more their intents and purposes, who acknowledged himselfe appre<g ref="char:EOLhyphen"/>hensive of an obligation binding his conscience to reveale things of so high a nature as this; seeing there was no reason for the doing of any such thing. For this his offence he was censured to pay twenty thousand pounds in <hi>Sugar,</hi> fine, and to depart the Island.</p>
+            <p>To proceede in our Discourse, we must take notice that at this instant of time, when this thing called <hi>[Banishment]</hi> was objected against, as not convenient at that time to be put in Exe<g ref="char:EOLhyphen"/>cution; A brother of that Fraternity, being fearfull his brethren might miscarry, had drawn up an Act and Oath, which hee then presented to the Assembly, who after a serious view taken thereof, finding enough in it to procure a dis<g ref="char:EOLhyphen"/>like of it, in all or most men, especially in those that made conscience of their wayes, con<g ref="char:EOLhyphen"/>firmes it. And ordered the publishing thereof, in the severall Parishes of the Island.</p>
+            <p>A Copy whereof you have here ensuing: <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="9" facs="tcp:169837:7"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="act">
+                        <head>An Act for the uniting of the Inhabitants of the Island, under the Govern<g ref="char:EOLhyphen"/>ment thereof.</head>
+                        <p>
+                           <hi>WHere as we have beene sad witnesses of the miserable effects of the seve<g ref="char:EOLhyphen"/>rall changes of Government, long settled in many Kingdomes and Estates; whereby the Inhabitants of such Kingdomes are to<g ref="char:EOLhyphen"/>tally ruined in their Lives and Fortunes, being given up as a prey to the rude Soul<g ref="char:EOLhyphen"/>diery, and a spoyle to the covetousnesse of others, and most commonly all this having (under pretence of tendernesse of consci<g ref="char:EOLhyphen"/>ence and differing in Religion) from what is most publickly professed in this Govern<g ref="char:EOLhyphen"/>ment. As well therefore to prevent such or the like miseries in this yet flowing Island, as also to stop the mouthes of all such as shall make Religion, or tendernesse of conscience, the cloke of their mischie<g ref="char:EOLhyphen"/>vous actions;</hi> Be it Ordained and En<g ref="char:EOLhyphen"/>acted, <hi>and it is Ordained and Enacted,</hi>
+                           <pb n="10" facs="tcp:169837:8"/>
+                           <hi>by the generall Assembly, That coercive Ecclesiasticall Lawes, and the penalties thereof, and every clause and particle in any former Law or Statute concerning the same, shall be and are hereby fully, absolute<g ref="char:EOLhyphen"/>ly, and totally repealed, to all intents, con<g ref="char:EOLhyphen"/>structions, and purposes whatsoever. And that all obedience be yeelded to the Govern<g ref="char:EOLhyphen"/>ment, or any the Lawes of the same in be<g ref="char:EOLhyphen"/>ing now in this Island, and the persons that now are or may be intrusted in the same.</hi>
+                        </p>
+                        <p>
+                           <hi>And whosoever shall by any Deeds or Words maliciously deprave, vilifie, or op<g ref="char:EOLhyphen"/>pose the said Government, or any the Lawes of the same, and be thereof convicted by the Oath of two credible witnesses, or his own confession, shall be taken, deemed and adjudged as an enemy to this Island, and the peace thereof, and be proceeded against by the generall Assembly according to his offence. And for the better preservation of the Government aforesaid, and the re<g ref="char:EOLhyphen"/>moving of all feares and jealousies that may be occasioned in the same.</hi> Be it Or<g ref="char:EOLhyphen"/>dained
+<pb n="11" facs="tcp:169837:8"/> and Enacted, <hi>That all and every person or persons that shall goe or come to any Conventicle, or shall labour to se<g ref="char:EOLhyphen"/>duce any person or persons from repairing to the publick Congregation, or receiving of the holy Sacrament, shall by any Ju<g ref="char:EOLhyphen"/>stice of peace (upon complaint thereof to him made) be committed to Prison, there to remaine without bayle or maineprize, till the next generall Sessions of the Assembly: and upon conviction thereof, by confession or due proofe in Law at the next or any subsequent meeting of the Assembly, shall for the first offence be imprisoned for the space of three moneths without bayle or main<g ref="char:EOLhyphen"/>prize, and fined and ransomed at the pleasure of the Assembly: And for his se<g ref="char:EOLhyphen"/>cond offence (upon complaint made to any Justice of Peace) shall be committed as aforesaid, and being thereof convicted, as aforesaid, shall forfeit all his Lands, Goods, Chattells and Debts; and be held an Ene<g ref="char:EOLhyphen"/>my to the peace of this Island, and pro<g ref="char:EOLhyphen"/>ceeded against accordingly. And lastly, as a further expedient for the supportation of</hi>
+                           <pb n="12" facs="tcp:169837:9"/>
+                           <hi>the Government aforesaid, Be it enacted by the authority aforesaid, that the ensuing Oath be tendered to the severall Inhabi<g ref="char:EOLhyphen"/>tants, and Residents in this Island, by them to be taken, in such manner, and such persons as the Generall Assembly shall appoint.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Before we proceede to the particulars of the Oath (before mentioned) let us a little take notice of these mens proceedings, how plainely and palpably they throw dirt in the faces of those that differ in judgement from themselves. And how odious they endeavor to make them appeare unto the people, by fathering upon them all the desolations, and dissolutions of Kingdomes and Estates; and that they professe Religion for no other end nor purpose, then to make it the cloke of their mischievous acti<g ref="char:EOLhyphen"/>ons. And under the pretence of granting liber<g ref="char:EOLhyphen"/>ty, would bring us under the greatest of bon<g ref="char:EOLhyphen"/>dages, for by this their Act, if any man be found comming or going to or from (any thing they please to call a Conventicle) shall for the first offence be committed to prison, there to remaine for the space of three moneths without bayle or maineprize; and not onely so but must be fined and ransomed at the pleasure of the Assembly; And for his second offence shall be
+<pb n="13" facs="tcp:169837:9"/> imprisoned (therein his body suffers) and shall forfeit all his Lands, Goods, Chattells and Debts; (hereby is all his Estate gone:) but this is not all, he shall be deemed a publick Enemy to the Common-wealth, and proceeded against accordingly. Now, no doubt his life goes to it, for all besides is gone. Hereby you may plaine<g ref="char:EOLhyphen"/>ly see the tempers of these mens Spirits, that under the pretence of liberty doe most subtilly labour to insnare us in the greatest slavery that ever was exercised upon the Theater of the earth.</p>
+            <p>The Bishops (in their time) were content with part of all, but these men will have all; all Bodies, all Estates, and nothing sounds well with them but All, All; Oppression, Tyranny, Slavery and Cruelty; whilest they pretend free<g ref="char:EOLhyphen"/>dome and liberty: And if you please to take notice, you shall finde them by and by (as soone as they perceive the mystery of their iniquity discovered) acting quite contrary to this their Act of grace (as they call it) and are fining and banishing all such as will not pin their faiths up<g ref="char:EOLhyphen"/>on their sleeves, and beleeve as they do.</p>
+            <p>Having observed the contents of this their Act, let us proceede to the Oath, which they entitle a further expedient for the supportation of that their then present Government.</p>
+            <p>The contents whereof is as followeth: <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="14" facs="tcp:169837:10"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>I A. B. <hi>doe voluntarily and freely, without feare or compulsion, acknowledge and declare in my conscience before God and the world, that civill Government is a necessary Ordinance of God, and ought as well for conscience sake, as fear, to be obey<g ref="char:EOLhyphen"/>ed by all Christians, how different soever in opinion concerning matters of Religion; And do further believe that the forme of Government now being in this Island is law<g ref="char:EOLhyphen"/>full and just; And therefore I (saving my allegiance to our Soveraigne Lord the King,) doe sweare that I will not wilfully or know<g ref="char:EOLhyphen"/>ingly oppose the same; But shall and will to the utmost of my power and indeavour with my life and fortunes, maintaine, uphold, and defend the same, against any power or opposition whatsoever. And also shall and will to the utmost of my indeavours make known and discover to the Governor, or any other of his counsell, all Plots, Conspi<g ref="char:EOLhyphen"/>racies and Attempts against the same, so</hi>
+                           <pb n="15" facs="tcp:169837:10"/>
+                           <hi>soone as I shall know or heare the same; and to the utmost of my power will oppose, and defeate the same. And I do believe and in my conscience am resolved, That no power but of the said Government can ab<g ref="char:EOLhyphen"/>solve me of this Oath, or any part of the same, which I acknowledge to be by good and lawfull Authority administred unto me.</hi>
+                        </p>
+                        <p>
+                           <hi>These things I doe plainely and sincerely acknowledge, and doe sweare according to the expresse words by me spoken, and accord<g ref="char:EOLhyphen"/>ing to the plaine sence and understanding of the same words, without any equivocation, mentall reservations, or secret evasions. And I doe make this Recognisance and ac<g ref="char:EOLhyphen"/>knowledgement, willingly, heartily and tru<g ref="char:EOLhyphen"/>ly, upon the faith of a Christian.</hi>
+                        </p>
+                        <closer>So helpe mee God, and the contents of this holy Booke.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="16" facs="tcp:169837:11"/>
+            <p> The policy of the Author, in this thing, is not altogether to passe without an observation, how subtilly hee begins with undeniable truths, and with so much pollicy presents his <hi>Amma<g ref="char:EOLhyphen"/>zella,</hi> that the splendor of her beauty seems to be of force to attract, not onely the Eye but the heart (upon the first view) to apprehend it a rarity composed of vertue it selfe, and to cause a generall embracing of it by all men, for its very out-sides sake, without any examination of its inward properties: but as the Serpents sting is in his Tayle, so the poyson of this lies in its hind parts, so that whosoever shall discover his strength to this <hi>Delilah,</hi> shall be sure to lose it, and have the <hi>Philistims</hi> come upon him, who will pull out his Eyes, and make him slave in the Mill of their pleasures. This Oath is presented to the People, by them to be taken voluntarily and freely, and is to proceed from them as a free-will-offering, so that the People shall vo<g ref="char:EOLhyphen"/>luntarily and freely (without feare or compul<g ref="char:EOLhyphen"/>sion) inslave themselves, and give away their birth-rights for lesse then a messe of Pottage. They doe not tell us what they will doe to those that deny this Oath, but deny it and you shall be fined and banished; If you will not give a<g ref="char:EOLhyphen"/>way your just rights and priviledges, you shall be forced from your Relations and Estates; and if you will not both be their slaves and vassalls,
+<pb n="17" facs="tcp:169837:11"/> one of them you must and shall: and if you desire Law and Reason to be showen you for these their proceedings, they will show you an Army of devouring Caterpillers, that shall eate you into better manners, then to oppose their pro<g ref="char:EOLhyphen"/>ceedings. By this Oath you acknowledge their Government to be lawfull and just, and sweare to maintaine it with your life and fortune; now what unjust Act soever they are guilty of, you must not onely cease to oppose it, but must approve of and defend them in it; And having already acknowledged that no power can ab<g ref="char:EOLhyphen"/>solve you of that Oath, but that which admini<g ref="char:EOLhyphen"/>stred it, you must never expect they will ab<g ref="char:EOLhyphen"/>solve you of this Oath, to accuse them guilty of unjust actions. If you take notice of this their Act and Oath, you shall finde it meerely a pain<g ref="char:EOLhyphen"/>ted Sepulcher, full of rotten bones, and all man<g ref="char:EOLhyphen"/>ner of abominable filthinesse.</p>
+            <p>This Act and Oath being (by the Governor, Councell, and Assembly) confirmed, was Or<g ref="char:EOLhyphen"/>dered to be published in the severall Parishes in the Island, and after publication, the Oath to be administred to the Inhabitants in generall.</p>
+            <p>But before the publishing thereof, one of the grand Agents therein presented a copy of it to some friends of ours, and (Serpent like) used all the faire pretences that might be to animate them to relish it, alledging the great convenien<g ref="char:EOLhyphen"/>cies
+<pb n="18" facs="tcp:169837:12"/> contained in it for the uniting of the Inha<g ref="char:EOLhyphen"/>bitants, with divers other expressions.</p>
+            <p>But the parties to whom it was showne, de<g ref="char:EOLhyphen"/>clared their utter dislike of it, That it tended to the perpetuating them and theirs in place of authority; and to the setting up of a Government of will and power. That there was no reason why they should have such a tie upon the people, seeing they had no ingagement from them to govern according to the known Lawes of the Land; That the Island was in peace, and like so to continue; and for any such ingagement there was no apparent necessity. That the People were, in generall, obedient to the present Go<g ref="char:EOLhyphen"/>vernment, and what would they desire more?</p>
+            <p>The party that presented the aforesaid copy, seemed not a litle troubled, that this Oath, and Act was no better relished; affirming there was nothing in it but what tended to the uniting of the People, and the continuation of peace a<g ref="char:EOLhyphen"/>mongst them.</p>
+            <p>These our friends having had a sight and view of this Act and Oath, gave others to under<g ref="char:EOLhyphen"/>stand the contents thereof, finding it to in<g ref="char:EOLhyphen"/>trench too much upon the Peoples just rights and priviledges, bethought themselves which way it might be possible to prevent the publish<g ref="char:EOLhyphen"/>ing thereof, which they apprehended must be by repairing to the Governour, which they did,
+<pb n="19" facs="tcp:169837:12"/> desiring him to take into his consideration the large extent thereof; That it was contrary to the Law of God, Nature and Nations, for them to impose any such Oath upon a free People as they were; That of necessity they had some sinister ends in it, it being such a thing as no preterit time could shew any president for.</p>
+            <p>Hereupon the Governor exprest himselfe to this purpose, That he had suffered this Act and Oath to passe, onely for quietnesse sake, having to do with men of violent spirits: his opposing them might cause farther troubles, and his de<g ref="char:EOLhyphen"/>sire was for the preservation of that precious jewell, Peace, which we had so long happily in<g ref="char:EOLhyphen"/>joyed: that although he had suffered them to passe, yet he apprehended inconveniencies in them; That if they pleased to leave him to him<g ref="char:EOLhyphen"/>selfe, he would not be backward in applying him<g ref="char:EOLhyphen"/>selfe to the considering of what was best to be done.</p>
+            <p>These Gentlemen had not been long gone from the Governour, but Colonell <hi>Humfrey Wallrond</hi> came, to whom the Governour after some discourses had together, declares hee had that day received a Letter from a Magistrate, wherein he gave him to understand, that the Clarkes (in drawing of severall Copies of the Act and Oath) had mistaken themselves, and
+<pb n="20" facs="tcp:169837:13"/> writ nonsence; And for that reason it was con<g ref="char:EOLhyphen"/>cluded, with <hi>Waldronds</hi> advice, absolutely neces<g ref="char:EOLhyphen"/>sary they should be cal'd in, and the errors of the Clarks rectified.</p>
+            <p>This opportunity was imbraced by the Go<g ref="char:EOLhyphen"/>vernour, and his Letters sent to the Priests of every Parish to omit the publishing thereof, which was in like manner done.</p>
+            <p>This stop being made in the businesses for the present, did well; but the life of our liberties being now in much danger, speciall care was taken how to prevent the publishing of these totally. And after due and serious considerati<g ref="char:EOLhyphen"/>on taken, it was concluded upon, that the Go<g ref="char:EOLhyphen"/>vernour should be petitioned for the choyce of a new Assembly, wee apprehending it our just rights and priviledges to have a yearely electi<g ref="char:EOLhyphen"/>on. By this time severall copies of this Act and Oath is procured, and the Countrey sensible of the contents thereof, which they generally dis-relish, and conclude to petition for the choyce of a new Assembly: which they accord<g ref="char:EOLhyphen"/>ingly doe. A Copy whereof for the Readers better information wee have here inserted: <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="21" facs="tcp:169837:13"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="disapprobation">
+                        <head>
+                           <hi>To the Honourable,</hi> PHILIP BELL, <hi>Governour of the Island</hi> BARBADAS: <hi>The humble Petition of the Inhabitants of</hi> Phi<g ref="char:EOLhyphen"/>lips <hi>Parish, whose Names are subscribed,</hi>
+                        </head>
+                        <opener>
+                           <salute>HUMBLY SHEVVETH,</salute>
+                        </opener>
+                        <p>THat whereas we cannot otherwayes con<g ref="char:EOLhyphen"/>ceive, but it is the Liberty and Privi<g ref="char:EOLhyphen"/>ledge of free-borne English-men, that are In<g ref="char:EOLhyphen"/>habitants and free-holders in this Island, to chuse the Gentlemen of the Assembly here, once every year, none having sat so long as the Assembly that now is; And whereas (to
+<pb n="22" facs="tcp:169837:14"/> our great grief) we perceive there hath been an Act and Oath past, at their last sitting, thereby to set up themselves (above legall or intended power) by us; to the inslaving of the free People Inhabitants of this Island, in which some of good integrity have bin over<g ref="char:EOLhyphen"/>borne, whom we cannot but deem lovers of the Liberties of those that intrusted them. Now sithence by the long continuance of this present Assembly, such an ill consequence was like to ensue,</p>
+                        <p>We humbly desire your Honour would be pleased, forthwith to issue forth your Warrants, for the speedy chu<g ref="char:EOLhyphen"/>sing of a new Assembly, and a time be appointed yearly for the like election, it being the Rights and Liberties of us, which we humbly commend to your care and preser<g ref="char:EOLhyphen"/>vation (being our honoured Gover<g ref="char:EOLhyphen"/>nor) whereby you will ever ingage us to be ready to serve you with our lives and fortunes from all opposers, And to pray, &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="23" facs="tcp:169837:14"/>
+            <p>
+               <hi>The Governor being sensible of the Coun<g ref="char:EOLhyphen"/>tries disapprobation (with reference to the Act and Oath) calls his Councell together to con<g ref="char:EOLhyphen"/>sider (as is supposed) what was best to be done in this businesse. This opportunity was taken (by the Country) and being sensible of their then Sitting, presented their Petitions, who were accepted of, and (by the Governour granted) they containing nothing but the Peoples just Rights and Priviledges.</hi>
+            </p>
+            <p>
+               <hi>But the Councell and Assembly (considering that upon the choyce of a new Assembly, some of them might be dismissed, and being out of place were lyable to give an account of all their illegall actions, and unjust proceedings; which they well knew would appeare very foule, and a taske which they were very unwilling to un<g ref="char:EOLhyphen"/>dergoe) were very much discontented at the granting of these Petitions, or as we may justly say, inraged to see that their designe of Inslaving the Country, began to be discovered, insomuch that now they must not neglect the attempting of any thing, (how unjust soever) whereby they may keepe themselves in places of Authority. And to that purpose pretend they will procure crosse Petitions, wherein the Country should approve of their proceedings, and desire their Continuance. But knowing this to be in vaine, (the Countries minds being already exprest in</hi>
+               <pb n="24" facs="tcp:169837:15"/>
+               <hi>their Petitions) they conclude upon another de<g ref="char:EOLhyphen"/>signe, and informe the people, of that part of the Country where their chiefest motion was, that the Petitioners were</hi> Independents, <hi>and that they had a designe to cut off all the Loyall affect<g ref="char:EOLhyphen"/>ed to his Majesty, and to alter the Government of</hi> Church <hi>and</hi> State, <hi>by bringing in the Parlia<g ref="char:EOLhyphen"/>ments power, for the Establishing of which they had Commissions from the Parliament. That now it was high time to look about them, the which if they neglected they were all dead men. Alledging that they must not expect fairer tearmes from those here, then his Majesty (and others) received from their Brethren in</hi> Eng<g ref="char:EOLhyphen"/>land: <hi>with many other perswasions whereby to intice and stir up the people to mutiny and Re<g ref="char:EOLhyphen"/>bellion; to which purpose they write severall libells, and scandalous papers, throwing some up and downe, and putting others upon Posts: severall whereof we have here inserted, being as followeth,</hi> viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="tract">
+                        <p>FRiends, take my advice, There is in hand a most damnable designe, the Au<g ref="char:EOLhyphen"/>thors are <hi>Independents,</hi> their ayme is whol<g ref="char:EOLhyphen"/>ly to Casheere the Gentry and Loyall, and to change for our Peace Warre, and for our Unity Division. <hi>Colonel Drax</hi> that de<g ref="char:EOLhyphen"/>vout
+<pb n="25" facs="tcp:169837:15"/> zealot (of the deeds of the Devill, and the cause of that seven headed Dragon at <hi>Westminster)</hi> is the Agent: Now that the workeman may have his hire, I could wish that there were more Covenanters be<g ref="char:EOLhyphen"/>sides my selfe, for (truly I cannot conceale it) I have vowed to impeach him and prose<g ref="char:EOLhyphen"/>cute him, but not in point of Law; for then I know he would subdue me (but at the point of Sword:) Let me desire such as tender Religion, the Loyall, the safety of the Island, and being of our present Government, they before-armed against the pretence of Li<g ref="char:EOLhyphen"/>berty, for thereby is meant Slavery and Ty<g ref="char:EOLhyphen"/>ranny. But I halfe repent this motion of the Pen, purposing with all expedition to Action.</p>
+                        <p>My ayme is at <hi>Drax, Middleton,</hi> and the rest. </p>
+                        <closer>Vivat Rex.</closer>
+                     </div>
+                     <div type="tract">
+                        <pb n="26" facs="tcp:169837:16"/>
+                        <head>Another.</head>
+                        <opener>
+                           <salute>Gentlemen Planters,</salute>
+                        </opener>
+                        <p>
+                           <hi>I</hi> Have a good opinion of your Loyalty, I doubt not but you know the pretence for ruine, that of liberty, and dissolution of our Government, whereby our peace only stands: some of you I beleeve are ignorant of the deceit that is in the cunning of selfe will<g ref="char:EOLhyphen"/>workers: if you inquire after <hi>Englands</hi> Troubles, her sadnesse, her sorrowes, her divisions, her Warres, her Rapines, her Murders, you will find that it came from pretence of Liberty; such now is that of <hi>Drax,</hi> (who as by Letters appears) is factor for the Rebells in <hi>England,</hi> and here is to vent his trade of disloyalty, Rebellion, and Ruine; and to cleare this, if you looke upon the late Petition, there is the height of his charge of Roguery, not onely with a party to overthrow our Assembly, but impeaching the judgements of all the Islanders. Sirs, pray
+<pb n="27" facs="tcp:169837:16"/> take notice, and dreame not, if the Devill can performe for you any good, then expect it from those Imps of the Devill, not otherwise: for my owne part if no punishment extend to these Traitors, I must to exercise at Armes, to which I desire there may be a redinesse in you all.</p>
+                        <closer>Vivat Rex.
+<salute>Till the next, farewell.</salute>
+                        </closer>
+                     </div>
+                     <div type="tract">
+                        <head>To the Islanders. Another.</head>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>
+                           <hi>I</hi> Lately saw from <hi>England</hi> two Letters, Dated the 19 of <hi>September,</hi> 1649. wherein, though I have little Interest in <hi>Bar<g ref="char:EOLhyphen"/>badas,</hi> farther then peace is preserved, yet I found much of discomfort. To be briefe, the substance of both was matter of schisme and division, wherein was promised much of assistance from the Parliament, provided the Independents here could make any divi<g ref="char:EOLhyphen"/>sion betwixt the Governour and the Kings party; but withall, that there might not be
+<pb n="28" facs="tcp:169837:17"/> present hopes in regard of <hi>Englands</hi> trou<g ref="char:EOLhyphen"/>bles, which the Letters spoke much of from the North, <hi>James Drax</hi> confirmed in the esteeme of the factious party in <hi>England,</hi> who is ordering things answerable to the desires of his brethren in <hi>England:</hi> and now I desire to put this question, how <hi>Drax</hi> can any way benefit this Island by a Petition that tends to the breach of the peace; and whom it is manifest is engaged to <hi>England</hi> for a faithfull agent of Rebellion? Gentle<g ref="char:EOLhyphen"/>men, pin not your Faith upon other mens sleeves; I never knew but destruction of a Nation was pretence of Liberty, and to this purpose I could write much, but I doubt not of the purposes of the Generall as to matter of present Government and Loyalty. Let this be an admonition against the snare that is laid, that is, not to owne pretences of piety, where there is not so much as the sha<g ref="char:EOLhyphen"/>dow of Loyalty: where is Loyalty there can<g ref="char:EOLhyphen"/>not but be piety, but there can be no piety, where there is no Loyalty. For my particu<g ref="char:EOLhyphen"/>lar I am resolved to hazard my life against these Libertines in the behalfe of the King.</p>
+                        <closer>VIVAT REX.</closer>
+                     </div>
+                     <div type="tract">
+                        <pb n="29" facs="tcp:169837:17"/>
+                        <head>Another. To the Gentlemen Cavaliers by the Planters.</head>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>YOu are men experienced in the World, and as you well know what truth is, so doubtless you are experienced in the practices of the Enemies of truth; which in all mis<g ref="char:EOLhyphen"/>chievous designes so use the painting of pre<g ref="char:EOLhyphen"/>tending Liberty; herein most visibly is the late appearance of the Type of that seven<g ref="char:EOLhyphen"/>headed Dragon of <hi>Westminster,</hi> Colonel <hi>James Drax,</hi> as is declared by a Petition the 23 of <hi>Aprill</hi> instant, 1650. methinks the sad spectacle of <hi>England</hi> should not have given over so many to so easie allurements: though I know not of any of Piety or Loyalty that were Subscribers; yet I wonder so de<g ref="char:EOLhyphen"/>luding a pretence should prevaile with any,
+<pb n="30" facs="tcp:169837:18"/> for my owne particular I am so capable of the devilish intents of such pretenders, that I shall be so far from owning the Petition, or any thing therein contained, as I shall thinke my best rest but disquiet, untill I have sheathed my Sword in his Bowells that first began it, unlesse regular power make an appearance against it: and I think that without mistake my knowledge amounts to the number of one hundred friends of the same minde; the vilifying of the Counsell I looke upon as broached in <hi>England,</hi> there being to my knowledge Letters came enjoy<g ref="char:EOLhyphen"/>ning many Agents to excite divisions be<g ref="char:EOLhyphen"/>tween the Governour and them, whereby our enslaving may the more easily be fa<g ref="char:EOLhyphen"/>cilitated, and therefore I wish all with me would endeavour to vindicate those wor<g ref="char:EOLhyphen"/>thies by whom we have received so much happinesse, and labour to prosecute to the Terrour of those Instruments of this evill amongst us; for voiding this Assembly the best truth and securest happinesse is against it, and therefore those selfe-seekers that la<g ref="char:EOLhyphen"/>bour for it, and I am confident without the
+<pb n="31" facs="tcp:169837:18"/> approbation of the Island, more then of such whose advancements are hoped for upon Ruines of others. Gentlemen, be of Courage, our abilities are not wrapt up in the opinion of any, neither doe we look upon the late pro<g ref="char:EOLhyphen"/>ceedings by way of Petition, as from the Country▪ but rather from such as desire to enslave us all; as <hi>Col. Drax, Midleton, Allyne, &amp;c.</hi> Gentlemen, be comforted, and waite, distrust not your Assistance.</p>
+                        <closer>VIVAT REX.</closer>
+                     </div>
+                     <div type="tract">
+                        <head>Another.</head>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>YOu have had the sowre taste of the event of the pretence of Liberty in <hi>England,</hi> I hope you will prevent an enforced one here, the <hi>Independants</hi> have the faculty of masking understanding: let your expe<g ref="char:EOLhyphen"/>rience teach you the contrary to deny the wearing of it: sure I am, however the late
+<pb n="32" facs="tcp:169837:19"/> Petition went under a notion of Liberty; yet let me tell you, we are not sensible of truth from the mouths of those friends that presented them: and to speake home, assure your selves Piety and Loyalty dwells in our breasts, and if you will hold up your Lan<g ref="char:EOLhyphen"/>thorne, doubt not but we will put in our Lights; and if you please, <hi>Diogenes-like,</hi> seeke towards <hi>Colonel Drax</hi> to finde out an honest man. Gentlemen, we understand ther's Letters come from <hi>England,</hi> to move division betweene you and the Governour, and if possible to ruine you; if you will ap<g ref="char:EOLhyphen"/>peare, doubt not but our Loyalty will assist you, for indeed your vertues and the happi<g ref="char:EOLhyphen"/>nesse we have received by you, engages us to it. To let you know you have some friends sensible of your parts and worth, and of the Injuries you have received, I dare warrant for my poore particular, to be the leader of five hundred men, at your Command and occasion, (and I am confident the best part of this Island is well inclined) I shall not cease to be active in your behalfs, and not insensible of one we had better hopes of.
+<pb n="33" facs="tcp:169837:19"/> Expect to heare from us to your comfort, and as we are bound in duty.</p>
+                        <closer>VIVAT REX.</closer>
+                     </div>
+                     <div type="tract">
+                        <head>Another.</head>
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>
+                           <hi>HAving found a Libell dispersed to the scandall of the authority now in being, and undervaluing of the Judicious of the whole Island, as to their chiefe of the Assem<g ref="char:EOLunhyphen"/>bly, and their concurrence with them in out<g ref="char:EOLhyphen"/>cries and exceptions against particular men, of knowne worth and Loyalty, we could not but proceed to this Declaration,</hi>
+                        </p>
+                        <p>1. <hi>That conformity is the best step and advance to security, that those worthy Gen<g ref="char:EOLhyphen"/>tlemen that are scandalized, having endea<g ref="char:EOLhyphen"/>voured thereto, we looke upon as the best helpers to this Common-wealth.</hi>
+                        </p>
+                        <p>2. <hi>That whereas imprecations are vented against Lawyers, (to the renowne of those Worthies the</hi> Waldronds <hi>be it spoken) from</hi>
+                           <pb n="34" facs="tcp:169837:20"/>
+                           <hi>them is our Generall happinesse derived.</hi>
+                        </p>
+                        <p>3. <hi>That whereas they are clamorous against the intended (Oath) with seditious Petitions spred as from the Generall, we declare the extent of the Oath to all peaceable being; nothing therein binding further then to submission, so the power proceeds from our Election, and vote of all men, and Loyalty to our King: That we disclaime the procee<g ref="char:EOLhyphen"/>dings of</hi> Drax, Middleton, Allyne, <hi>and the rest, as most Seditious disturbing of our Union and present being in peace, and the most horrid foundation of further intended mischiefe; as derived and taken from the practice of those Imps of the Devill, the de<g ref="char:EOLhyphen"/>vouring Rebells at</hi> Westminster.</p>
+                        <p>5. <hi>That we looke upon countenancers of the late Petitions, as the most dangerous of Enemies, and in the resolution, and of pre<g ref="char:EOLhyphen"/>sent appearance, unlesse better Satisfaction, we are resolved to live and dye, to the comfort of the Loyall.</hi>
+                        </p>
+                        <closer>VIVAT REX.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="35" facs="tcp:169837:20"/>
+            <p> Here we may see at a distance, the intentions and resolutions of the studiers of our destructi<g ref="char:EOLhyphen"/>ons; They have long laboured to find out some seeming cause or pretence for a quarrell, that the chiefest of them may not faile of their pur<g ref="char:EOLhyphen"/>poses, to pay their old debts by a new device. <hi>Waldrond</hi> and his associates being in place of Au<g ref="char:EOLhyphen"/>thority, have a promising opportunity, &amp; all their time is, and must now be imployed to stirre up the people to an extremity of zeale to his Ma<g ref="char:EOLhyphen"/>jesty; declaring his great hopes of their for<g ref="char:EOLhyphen"/>wardnesse to shew their Loyalty. That now is the time to vanquish the Parliaments friends, otherwise (if not speedily put in Execution) themselves should be all routed; he knowing this to be one way to pay the Creditor, puts on his maske of pretended Loyalty, and forth<g ref="char:EOLhyphen"/>with gets company enough. For most of the brethren of his fraternity is more on the Debter then Creditors side of the book; and they cast up their Caps and cry, heigh for King <hi>Charles!</hi> By and by comes a company, and they are resolved men, and scorn whispering, or any thing lesse then <hi>God Damne'm</hi> heres a health to King <hi>Charles.</hi> These (you may take notice) are a Generation of young <hi>Cavees</hi> lately come over from <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> (I doubt some not unsent for) and be<g ref="char:EOLhyphen"/>ing Heires to great inheritances in <hi>England,</hi> (which is kept from them by the right owners)
+<pb n="36" facs="tcp:169837:21"/> pretend all is sequestred by the Parliament, and they having lost that they never had right to there, intend to make that theirs here, which was never intended them; well, these are wel<g ref="char:EOLhyphen"/>come to <hi>Waldrond,</hi> with a Gentlemen I'le mount you, shortly &amp;c. By and by comes a Troop brave<g ref="char:EOLhyphen"/>ly mounted, and they exceede those formerly spoken of, for they sweare <hi>God Damne'm</hi> they will sheath their Swords in the hearts of all those that will not drink a health to the Figure of II. and another to the confusion of the <hi>Independent</hi> doggs. These are likewise welcome to <hi>Waldrond,</hi> with A-I wonder Gentlemen you were not the first, having Horses at Command: But let us a little examine what these are; well, these are a Generation of people called Agents or Factors for their Masters (the <hi>London</hi> Mer<g ref="char:EOLhyphen"/>chants and others) and having out-run the Constables in <hi>England,</hi> and run out their principalls here, resolve to foote it no longer, but now let the <hi>Sugar-mill</hi> stand, and their Ma<g ref="char:EOLhyphen"/>sters expect returnes; they will waite on <hi>Wal<g ref="char:EOLhyphen"/>drond,</hi> for he is the man from whom they expect honour and preferment, for by <hi>Banishing</hi> the <hi>Roundheads,</hi> and bidding defiance to the Parliament, they shall procure a Proclamation of Rebellion against them, which will be a no<g ref="char:EOLhyphen"/>table excuse for their not comming home to give their Masters an account there. And if to
+<pb n="37" facs="tcp:169837:21"/> that purpose they send hither, their servants are advanced to place of authority, and their time is so taken up about State matters, that they are not at leasure to draw up accounts.</p>
+            <p>By this time they have perswaded the People (residing in that part of the Countrey) that the Independents had a designe, as aforesaid, and that they onely were the originalls of the Petitions to accomplish the ends aforesaid; And now the businesse begins to worke very well to their purposes, so that they are ready to give the Allarum; In which posture wee will leave them, and come to speake a word or two of the Governour, who hearing of their con<g ref="char:EOLhyphen"/>tinuall motion amongst the People, animating them to take up Armes, not knowing any cause they had given them so to doe; and having had the experience of the dispositions of the <hi>Wal<g ref="char:EOLhyphen"/>dronds</hi> and others, that their Aime was to di<g ref="char:EOLhyphen"/>sturb the peace of the Countrey for the accom<g ref="char:EOLhyphen"/>plishing of their owne ends, upon the nine and twentieth day of <hi>April</hi> 1650. put forth a De<g ref="char:EOLhyphen"/>claration, under his hand, (the particulars whereof you have at large in the ensuing De<g ref="char:EOLhyphen"/>claration) That no man should take up any Armes, nor act in any hostile manner upon paine of death; but this is not taken notice of by those men, they have more respect to their owne ends, then to any obedience to Government,
+<pb n="38" facs="tcp:169837:22"/> and therefore must and will proceed. Upon notice given of their perseverance herein, the Governour sent forth particular commissions to Lieutenant Colonell <hi>Drax,</hi> and others, to raise forces for the preservation of our peace, which hee found much threatned by some turbulent spirits, which were very active in labouring to imbroyle the Inhabitants in an unnaturall War. By this time these men have raised an Alarum, and are advancing towards the Bridge; here<g ref="char:EOLhyphen"/>upon the Governour sends away a second Com<g ref="char:EOLhyphen"/>mission to Lieutenant Colonell <hi>Drax,</hi> to this purpose, that he should apprehend the bodies of the <hi>Waldronds</hi> (and their abettors) as fo<g ref="char:EOLhyphen"/>menters of Rebellion; upon the sending of this Commission the Governour sends Commissary Generall <hi>John Parrat,</hi> to require <hi>Waldronds</hi> ap<g ref="char:EOLhyphen"/>pearance before him. And in case of re<g ref="char:EOLhyphen"/>fusall to command his Commission from him, the which if he should deny to deliver, then to proclaime him Rebell. Upon the receipt of the Governours Letter, <hi>Waldrond</hi> goes along with the Messenger, with whom we will leave him, and come to speake of the Governour, who having received an invitation to dine at the Bridge that day, (with some Neighbours ac<g ref="char:EOLhyphen"/>companing him) rid thitherward; who, upon the way, was met by Colonell <hi>Edmond Reade,</hi> who then commanded a Troope of Horse, and
+<pb n="39" facs="tcp:169837:22"/> after the exchanging some few words with him, wheeles about, and leaving him, rides with his Troope towards the Bridge, where ere long the Governour came, and entered the House, where sometime himselfe and Counsell used to sit. About three or foure houres after <hi>Wal<g ref="char:EOLhyphen"/>drond</hi> came to the Governour, and presents himselfe more like a Saint then a Rebell, and pleads Not guilty of any intention of evil in the least. In briefe, he was discharged at that pre<g ref="char:EOLhyphen"/>sent, upon which he forthwith repaires to the Army, then upon a march, from whom the Governour in short time receives Propositions. And wee may take notice that <hi>Waldrond,</hi> who (ere while) presented himselfe a composure of innocency it selfe, to the Governour, is now become the head of the Rebellious Army, for so we may justly call them, in regard they did not onely take up Armes, without but contra<g ref="char:EOLhyphen"/>ry to the Governours command in contempt thereof in the highest nature. These Proposi<g ref="char:EOLhyphen"/>tions were presented the first of <hi>May,</hi> and an<g ref="char:EOLhyphen"/>swered the second with some exceptions, the third of <hi>May,</hi> the Replies were made to the Ex<g ref="char:EOLhyphen"/>ceptions, and the Propositions granted by the Governour, the particulars of all which is here ensuing, as followeth, <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="40" facs="tcp:169837:23"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="propositions">
+                        <head>Certain PROPOSITIONS <hi>presented by Colonell</hi> Humfry Waldrond, <hi>and Colonel</hi> Edmond Reade, <hi>from divers well-affected to His Ma<g ref="char:EOLhyphen"/>jesty, with the Governors respective</hi> Answers <hi>thereunto,</hi> viz.</head>
+                        <p>
+                           <hi>IMprimis,</hi> We are Resolved with our Lives and Fortunes, to maintaine and defend Captaine <hi>Phillip Bell</hi> to continue Governour of this Island, according to our Protestation taken the last yeare.</p>
+                        <p>Ans. <hi>Agreed upon.</hi>
+                        </p>
+                        <p>2. We desire that Sarjeant Major <hi>Wil<g ref="char:EOLhyphen"/>liam Byane,</hi> Major to Colonell <hi>Shelly</hi> his Regiment, be presently sent unto us.</p>
+                        <p>Ans. <hi>Granted and performed.</hi>
+                        </p>
+                        <p>3. That all Independents, and the other disturbers of the peace of this Island, may by your Order be presently disarmed,
+<pb n="41" facs="tcp:169837:23"/> and their Armes put in security.</p>
+                        <p>Ans. <hi>To the third, that all Independents deciphered unto us by Colonel</hi> Humfrey Wal<g ref="char:EOLhyphen"/>drond, <hi>as non-Conformists to the ancient discipline of the Church of</hi> England, <hi>esta<g ref="char:EOLhyphen"/>blished by Act of Parliament; And all other disturbers of the peace of this Island, which have bin declared by him to be such as have raised any Armes, or acted any hostile power against this present established Government, by the Governour and Counsell; shall receive my speedy command to deliver up their Arms to the principall Officers of your Army, your selves first ingaging for their safeties, and that no hostile Act be used against them.</hi>
+                        </p>
+                        <p>4. That the Magazine at the Bridge be so secured by your Honours advice, and counsells, as may free it from the sei<g ref="char:EOLhyphen"/>sure of those knowne disaffected to His Majesty, and the peace of this Island.</p>
+                        <p>Ans. <hi>To the fourth, It is already done, and upon my honorable word I will have a care of it.</hi>
+                        </p>
+                        <p>
+                           <hi>Reply.</hi> That the Magazine be put in our trust and guard, untill it can be disposed
+<pb n="42" facs="tcp:169837:24"/> of, according to the former Orders of the Assembly.</p>
+                        <p>Ans. <hi>This is granted.</hi>
+                        </p>
+                        <p>5. That those persons be brought to condigne Punishment, which have any wayes sought or endeavored to obstruct the peace of this Island, and laboured the ruine of those loyally affected to His Ma<g ref="char:EOLhyphen"/>jesty. In order whereunto we doe desire that twenty such persons as we shal nomi<g ref="char:EOLhyphen"/>nate (after the grant of these Propositions) be put into our custody, untill they be brought unto their legall tryall.</p>
+                        <p>Ans. <hi>To the fifth, if those twenty which you desire to be delivered into your custody, shall upon nomination and orderly summons, refuse to come to a legall tryall, I shall use my power and your Assistance to bring them to it.</hi>
+                        </p>
+                        <p>
+                           <hi>Reply.</hi> The intentions of our desires that the twenty be presently (by your sūmons) apprehended, and put into our powers, and that your honor hasten the calling of the Generall Assembly, that they may come to their speedy tryall, because our
+<pb n="43" facs="tcp:169837:24"/> forces cannot disband till it be effected; But upon our honours they shall receive no injury, untill they come to such Tryall.</p>
+                        <p>Ans. <hi>It is granted.</hi>
+                        </p>
+                        <p>6. That our lawfull Soveraigne <hi>(Charles</hi> the second) be instantly in a solemne man<g ref="char:EOLhyphen"/>ner proclaimed <hi>King.</hi>
+                        </p>
+                        <p>Ans. <hi>As for the last, we doe acknowledge our loyalty to our Soveraigne Lord King</hi> CHARLES <hi>the second, but for the present, Proclaiming of him according to your re<g ref="char:EOLhyphen"/>quest, we conceive it to be of such conse<g ref="char:EOLhyphen"/>quence, as not to be concluded without the result of my self, and the Generall Assembly, if they approve of it I shall give my consent.</hi>
+                        </p>
+                        <p>
+                           <hi>Reply.</hi> The Assembly being called ac<g ref="char:EOLhyphen"/>cording to our former Proposition, wee are content to suspend it.</p>
+                        <p>7. That when the Generall Assembly shall dissolve, which we presume it will do upon reasonable motion; The new elect<g ref="char:EOLhyphen"/>ed Members shall not be chosen and ad<g ref="char:EOLhyphen"/>mitted, but out of such men as are known
+<pb n="44" facs="tcp:169837:25"/> well affected to His Majesty, and are con<g ref="char:EOLhyphen"/>formable to the discipline of the Church of <hi>England,</hi> formerly established.</p>
+                        <p>Ans. <hi>It is granted.</hi>
+                        </p>
+                        <p>8. Our intentions and desires are for an act of oblivion, for the lawfull Armes we have taken for the defence of your self and the publick; And that an Act of In<g ref="char:EOLhyphen"/>demnity passe to all persons that have in<g ref="char:EOLhyphen"/>gaged with us.</p>
+                        <p>Ans. <hi>They are granted.</hi>
+                        </p>
+                        <p>9. We further desire your Honours safe conduct to all Officers of what degree soever, being Members of the Assembly, for their peaceable comming and going therein.</p>
+                        <p>Ans. <hi>That is granted.</hi>
+                        </p>
+                        <p>
+                           <hi>Lastly,</hi> if your Honour vouchsafe to consent, you forthwith please to come unto us (without any known disaffected person in your company) and you shall receive all civill observance, and due obe<g ref="char:EOLhyphen"/>dience belonging to your Person and Place.</p>
+                        <p>
+                           <hi>Performed on both parties.</hi>
+                        </p>
+                        <pb n="43" facs="tcp:169837:25"/>
+                        <closer>
+                           <signed>These foregoing <hi>Propositions</hi> were subscribed by these Men, whose Names are here<g ref="char:EOLhyphen"/>under specified, <hi>viz.</hi>
+                              <list>
+                                 <item>HEnry Shelle.</item>
+                                 <item>Edmund Read.</item>
+                                 <item>Humfry Waldrond.</item>
+                                 <item>Thomas Modiford.</item>
+                                 <item>Edward Waldrond.</item>
+                                 <item>William Kirton.</item>
+                                 <item>Benjamin Berringer.</item>
+                                 <item>Thomas Ellis.</item>
+                                 <item>James Browne.</item>
+                                 <item>William Byam.</item>
+                                 <item>Christopher Gill.</item>
+                                 <item>John Warr.</item>
+                                 <item>Paul Godwin.</item>
+                                 <item>Thomas Reade.</item>
+                                 <item>Charles Harvy.</item>
+                                 <item>Daniel Kendall.</item>
+                                 <item>Phillip Miller.</item>
+                                 <item>Robert Carleton.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>We have here a particular of the <hi>Propositi<g ref="char:EOLhyphen"/>ons,</hi> and what they containe (which is diverse particulars) as to have the <hi>Independents,</hi> as they call them, disarmed: the Magazine delivered up to them, the King instantly solemnly pro<g ref="char:EOLhyphen"/>claimed. Twenty such as they shall nominate delivered into their custody, to be brought,
+<pb n="44" facs="tcp:169837:26"/> say they, to a legall tryall: also an Act of In<g ref="char:EOLhyphen"/>demnity for all that have ingaged with them. In briefe, they will have all power in their own hands, that they may act all what they please, the Governour must stand for a cipher if he will not subscribe to their pleasures. If hee will submit hee may repaire to them, but if hee will not, they have an Army on foot to force the accomplishing of their ends. The Gover<g ref="char:EOLhyphen"/>nour loving peace, and looking upon these their so suddaine unwarrantable Actions, as proceeding from heate of bloud occasioned by some false informations, subscribes their <hi>Pro<g ref="char:EOLhyphen"/>positions▪</hi> not questioning but upon due delibera<g ref="char:EOLhyphen"/>tion taken, and both parties being heard speak, things would be moderated, and those preten<g ref="char:EOLhyphen"/>ded differences happily composed. But alas, the Serpent is as subtill as the Dove is harme<g ref="char:EOLhyphen"/>lesse; for after (with their pretences) they had prevailed with the Governour to come to them, they will have all things as they please; and he must issue forth his Warrants for the ac<g ref="char:EOLhyphen"/>complishing of their selfe-ends.</p>
+            <p>These disturbers of our peace, must and will have an Act of indemnity; for (say they to the Governour) the lawfull Armes we have taken for the defence of your selfe and the publick; if they had said (for the offence of your selfe and the publick) they had both spoke truth
+<pb n="45" facs="tcp:169837:26"/> and sense, but now they speake neither; if they had beene taken up for the defence of the Go<g ref="char:EOLhyphen"/>vernour and Countrey, then lawfully taken up; and if lawfully taken up, what needs an Act of oblivion and Indemnity? but they were taken up contrary to the Governours expresse command in his Declaration put forth upon paine of death, to force both him and the Countrey to submit to their illegall, and most horrid proceedings, to the Countries exceed<g ref="char:EOLhyphen"/>ing losse, hinderance and prejudice.</p>
+            <p>This done, they nominate the twenty men, mentioned in their <hi>Propositions,</hi> whose Names we shall give you by and by, who were, divers of them, required by a Colonell of their party, to repaire with him to their Armies head quar<g ref="char:EOLhyphen"/>ters, who after some time being there, were permitted upon their Paroll, to returne to their Habitations, where wee will leave them till the next summons, and give you the re<g ref="char:EOLhyphen"/>lation of a further policy which they acted with as much fallacy as subtilty, thus. <hi>Waldrond</hi> bethinking himselfe that whilest hee was active in raysing forces, hee had given out that the <hi>Independents</hi> were in Armes, intending to cut them off, and well knowing there were none in Armes (besides themselves) but onely those that were raysed by Lieutenant Colonell <hi>Drax,</hi> by the Governours especiall Order,
+<pb n="46" facs="tcp:169837:27"/> and particular Commission to that purpose; They being but twenty Horse, and betwixt eighty and a hundred Foote, who had not acted any thing at all, saving onely the appre<g ref="char:EOLhyphen"/>hending of one of <hi>Waldronds</hi> sonnes, who was with an Officer posting about to rayse Forces for the Armies assistance. Forthwith advises a Colonell of their owne party (whose Name we shall omit to insert) to send Order to his Lieutenant Colonell and Major for the ray<g ref="char:EOLhyphen"/>sing of his Regiment, and their advance to a place by him appointed. This Colonell (to the end they might bring about their designe with applause) repaires to the Governour, and presents his Regiment at his service as a guard to attend him, who knowing nothing of their designe, gives way to the raysing of the Regi<g ref="char:EOLhyphen"/>ment, and command is forthwith sent to the parties aforesaid; and by way of private Ala<g ref="char:EOLhyphen"/>rum, the Souldiers are in Armes, and appeare in their usuall place of exercise, and from thence are commanded to march, which they doe, and as a further expedient for the accom<g ref="char:EOLhyphen"/>plishing of the designe intended, it is given forth by the Officers of the Regiment, That <hi>Waldrond</hi> had raysed Forces, and surprized the Governour, and that their march was for his reliefe. That night they pitcht their colours in the Field, expecting in the Morning to
+<pb n="47" facs="tcp:169837:27"/> march for the Governours reliefe (as was at first pretended they should) but alas they are mistaken, instead of marching they must coun<g ref="char:EOLhyphen"/>ter-march home every man to his habitation upon paine of death; <hi>Waldrond</hi> hath effected his designe, and now his pretence is that this Regiment was raysed in opposition to him, and therefore are held and deemed Delin<g ref="char:EOLhyphen"/>quents and Disturbers of the peace, and must be proceeded against accordingly; And Forces of Foote and Horse imployed to disarme them forthwith, which was done, and they left to the cruelty of their slaves, who were of ability enough to destroy, and murther them, had not God in mercy restrayned their cruelty.</p>
+            <p>Having given you the particulars of this their Device and Invention, we shall returne to speake further of <hi>Waldrond</hi> and his crue, who now require the Governour to performe his ingagement with reference to his subscribing the <hi>Propositions;</hi> which begins to be done, and in order thereunto the twenty spoke of for<g ref="char:EOLhyphen"/>merly in their <hi>Propositions,</hi> is sent for by a Troope of horse, whose Names we shall give you ere we proceede any further, which is as followeth, <hi>viz.</hi>
+            </p>
+            <list>
+               <pb n="48" facs="tcp:169837:28"/>
+               <item>
+                  <hi>THomas Mathews</hi>
+               </item>
+               <item>
+                  <hi>John Klincket.</hi>
+               </item>
+               <item>
+                  <hi>John Bayes.</hi>
+               </item>
+               <item>
+                  <hi>Constant Silvester.</hi>
+               </item>
+               <item>Col. <hi>Io. Fitz Iames.</hi>
+               </item>
+               <item>Major <hi>VVilliam Fortescue.</hi>
+               </item>
+               <item>L<seg rend="sup">t</seg>. <hi>Thomas Rous.</hi>
+               </item>
+               <item>L<seg rend="sup">t</seg>. <hi>John Iohnson.</hi>
+               </item>
+               <item>
+                  <hi>Richard Haukins</hi> Esq.</item>
+               <item>
+                  <hi>Thomas Pears.</hi>
+               </item>
+               <item>
+                  <hi>Christofer Lyne.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Hyat.</hi>
+               </item>
+               <item>
+                  <hi>Henry Massey.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Iames Drax.</hi>
+               </item>
+               <item>Captaine <hi>Thomas Midelton.</hi>
+               </item>
+               <item>Captaine <hi>Renoald Alyne.</hi>
+               </item>
+               <item>Captaine <hi>David Bix.</hi>
+               </item>
+               <item>Captaine <hi>Lewis Morris.</hi>
+               </item>
+               <item>Captaine <hi>Iohn Hockeridge.</hi>
+               </item>
+               <item>Captaine <hi>Peter Edney.</hi>
+               </item>
+            </list>
+            <p>You may observe that divers of these Gentlemen are gone aboard a Ship (ere these are summoned) not thinking it safe to stay the tryall of any further of their enemies pro<g ref="char:EOLhyphen"/>ceedings, finding their beginning so unjust; but those not gone aboard, made their appearance before the Assembly, who had drawne up a
+<pb n="49" facs="tcp:169837:28"/> charge against them: containing matter of high crime and misdemeanour, as indeavouring the ruine of those loyally affected to His Ma<g ref="char:EOLhyphen"/>jesty; altering the Government of Church and State (formerly established) and bringing in of the <hi>Parliaments</hi> Authority, with some additions, concluding their charge with this sen<g ref="char:EOLhyphen"/>tence, <hi>That for these their crimes and offences they should pay one Million of</hi> Sugars <hi>fine, and be banished the Island.</hi>
+            </p>
+            <p>This charge is denied, and the impeached de<g ref="char:EOLhyphen"/>sire to answer to every particular charged against them, but this is denied; They further desire a legall tryall, but this is answered with, The Army must be kept a foote till their tryall was over; which would be a great charge, and wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l undoubtedly fall upon them; others threat<g ref="char:EOLhyphen"/>ning the Army should advance and eate them into better manners. With these and the like expressions they were discharged, and for that night committed to a guard, till the next mor<g ref="char:EOLhyphen"/>ning, at which time they were againe (by order) brought before the Assembly; who against their comming had provided their Sentence, which was read unto them. The contents where<g ref="char:EOLhyphen"/>of was to pay these severall sums of <hi>Sugar</hi> fol<g ref="char:EOLhyphen"/>lowing, and to depart the Island three moneths after, <hi>viz.</hi>
+            </p>
+            <pb n="50" facs="tcp:169837:29"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>LIeut. Colonell <hi>Drax,</hi> fined</cell>
+                     <cell>80000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Thomas Midleton,</hi>
+                     </cell>
+                     <cell>20000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>Lieut. <hi>Thomas Rous,</hi>
+                     </cell>
+                     <cell>20000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>Lieut. <hi>Iohn Iohnson,</hi>
+                     </cell>
+                     <cell>40000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Constant Silvester,</hi>
+                     </cell>
+                     <cell>10000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Iohn Hockeridge,</hi> and <hi>Thomas Pearse.</hi>
+                     </cell>
+                     <cell>10000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>Capt. <hi>Renoyald Alyne,</hi>
+                     </cell>
+                     <cell>5000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Mathews,</hi>
+                     </cell>
+                     <cell>5000 l.</cell>
+                  </row>
+                  <row>
+                     <cell>☞ The sum is in <hi>Sugar.</hi>
+                     </cell>
+                     <cell>190000 l.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Here you see the Legall Tryall they spake of in their <hi>Propositions,</hi> I question not but the Reader will take notice they are men that are capable of putting a quick dispatch to businesse; There is no reply to be made to their Sen<g ref="char:EOLhyphen"/>tence, but it must be as they have concluded, and this is the Legall Tryall they intended, only they have not fined all they called before them, because they aime at all they have.</p>
+            <p>At this their present sitting they proceede to an Act of extent (as we may call it) but they call it, <hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="51" facs="tcp:169837:29"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="act">
+                        <head>An Act for the present and future peace of this Island, And for the punishing of the late disturbers thereof.</head>
+                        <p>
+                           <hi>WHereas</hi> divers seditious, schismati<g ref="char:EOLhyphen"/>call and factious persons, incited and stirred up by many false scandalls and suggestions; fomented and spread abroad by the heads of the <hi>Independent</hi> party, and others the disturbers of the peace, have put themselves in Armes and Acted in an ho<g ref="char:EOLhyphen"/>stile manner, to the utter ruine of the Loyall Inhabitants of this Island, had not God in his great mercy prevented the same. There<g ref="char:EOLhyphen"/>fore to establish the peace of this Island for the present, and to prevent the like mischief for the future, and punishment of the persons aforesaid. <hi>Be it Ordained and Enacted</hi> by the unanimous consent of the Governour, Counsell &amp; Gentlemen of the Assembly; that
+<pb n="52" facs="tcp:169837:30"/> all the <hi>Independent</hi> party, non-conformists to the antient Discipline of the Church of <hi>England,</hi> and all other Sectaries; and all such as have adhered unto them, in the late endeavour to suppresse the reformed Reli<g ref="char:EOLhyphen"/>gion formerly Established, in the Raigne of our late <hi>Queene Elizabeth;</hi> within the Kingdome of <hi>England,</hi> and such as are disloyally affected to his Majesty, deliver all their Armes and Ammunition to the next field-Officer of the Regiment, within ten dayes after publication hereof. And like<g ref="char:EOLhyphen"/>wise within three Months after publication hereof depart this Island, and not returne again upon pain of death, and forfeiture of the Estate and Estates of such person or persons so returning, unlesse such person or persons shall first obtaine licence for the same from the Generall Assembly, (for the time being) or from the Governour and Counsell, if there be no Assembly; The said licence not to exceede the space of three months. <hi>And be it further Enacted</hi> by the Authority aforesaid, that the said <hi>Indepen<g ref="char:EOLhyphen"/>dent</hi> party, Sectaries, non-conformists, their
+<pb n="53" facs="tcp:169837:30"/> ayders, abettors, nor no person that shall be suspected by the Assembly or Counsell, (for the time being) shall be suffered to keepe any armes or Amunition, and this present Assembly shall not dissolve untill after the expiration of the said three Months. <hi>And be it further Enacted</hi> by the Authority afore<g ref="char:EOLhyphen"/>said, That the said <hi>Independent</hi> party, Sect<g ref="char:EOLhyphen"/>aries, non-conformists, their ayders, adhe<g ref="char:EOLhyphen"/>rents, Counsellers and abetters, in the late de<g ref="char:EOLhyphen"/>signe &amp; Intention, to suppress the said refor<g ref="char:EOLhyphen"/>med Religion, and the well affected to his Majesty in this Island, shall severally pay for the publick use of the Country, (to such trusty person or persons, as by the Gover<g ref="char:EOLhyphen"/>nour and Assembly shall be appointed) for a Fine and Ransome for their offence and Delinquency as aforesaid, the full quantity of fifty pounds of good wel cured Merchanta<g ref="char:EOLhyphen"/>ble muskovado Sugar, <hi>per Aker,</hi> for such plantations where there are Sugar works; And fifty pounds of Sugar <hi>per Aker,</hi> for such plantations where there are no Sugar works, or Commodities to that value, <hi>Except</hi> these persons hereafter named, who have
+<pb n="54" facs="tcp:169837:31"/> voluntarily consented to pay these severall Summs of the like Sugar, hereafter menti<g ref="char:EOLhyphen"/>oned, <hi>viz.</hi> Lieutenant Colonell <hi>James Drax,</hi> eighty thousand pound: Captaine <hi>Thomas Middleton,</hi> twenty thousand pounds: Lieutenant <hi>Thomas Rouse,</hi> twen<g ref="char:EOLhyphen"/>ty thousand pounds: Lieutenant <hi>John John<g ref="char:EOLhyphen"/>son,</hi> the summe of forty thousand pounds: <hi>Constant Silvester,</hi> the summe of five thou<g ref="char:EOLhyphen"/>sand pounds: Captaine <hi>John Hockeridge,</hi> and <hi>Thomas Pearse,</hi> the summe of ten thou<g ref="char:EOLhyphen"/>sand pounds: Captaine <hi>Renoyald Allyne,</hi> the summe of five thousand pounds: <hi>Tho<g ref="char:EOLhyphen"/>mas Mathews,</hi> the summe of five thousand pounds of the like Sugar.</p>
+                        <p>And except those that have no Estates in Lands, or are fled aboard Ships, who are left to the discretion of the Committee, chosen and appointed for that purpose; which said summes shall be imployed for a meete reward of the Soldiery, defraying the charges of the Armies quarters, for pro<g ref="char:EOLhyphen"/>visions sent in from well-affected per<g ref="char:EOLhyphen"/>sons adjacent thereunto, furnishing the Ma<g ref="char:EOLhyphen"/>gazine present, fortifying the Island, and
+<pb n="55" facs="tcp:169837:31"/> other publick uses: and if the severall summs of goods aforesaid, shall not amount to the satisfaction and effecting of these ends aforesaid, whereunto they are appointed to be imployed; that then the said rates upon their Land to be augmented and advanced according to the discretion of the said Com<g ref="char:EOLhyphen"/>mittee. <hi>And be it further Enacted</hi> by the <hi>Authority</hi> aforesaid, that all and every person or persons of the <hi>Independent</hi> party, Sectaries, Non-conformists, their adherents, ayders, Counsellors, or abettors in the de<g ref="char:EOLhyphen"/>signe, and invention aforesaid, paying their said severall fines, and submitting to their Banishment; shall be hereby pardoned, fully remitted &amp; discharged of all the crime &amp; offence aforesaid, or any thing concerning the same; And shall have and enjoy the full benefit and profit of their respective Estates that they now have, or hereafter at any time may have in this Island, to be managed by such person or persons, as they shall appoint; and the publick can confide in. <hi>It is also further Enacted</hi> by the <hi>Authority</hi> afore<g ref="char:EOLhyphen"/>said, for preservation and suppression of all
+<pb n="56" facs="tcp:169837:32"/> future insurrections, and machinations of the like nature, It may and shall be lawfull for all Colonels in Command, and their Offi<g ref="char:EOLhyphen"/>cers, upon any hostile attempt of the afore<g ref="char:EOLhyphen"/>said <hi>Independent</hi> and malignant party, to raise their Souldiers in Armes, and to suppresse the same, and in case of resistance to pursue the opposers to death; Alwaies pro<g ref="char:EOLhyphen"/>vided that Colonel <hi>John Fitz-James,</hi> and Captaine <hi>John Maniford</hi> are excepted out of this Act, or any benefit accruing thereby; <hi>It is further Enacted and Ordained,</hi> That the particular Officers in Commission of Militia; who have actually taken up Armes against the publike, be tryed by a Court Mar<g ref="char:EOLhyphen"/>shall, as also Colonel <hi>John Fitz-James,</hi> and Captaine <hi>John Maniford. May</hi> the 11. 1650.</p>
+                        <closer/>
+                        <postscript>
+                           <p>Ordered, <hi>That this and all other Acts and Orders of the Governour and Assem<g ref="char:EOLhyphen"/>bly, be hereafter certified under the hand of the Secretary, to be published in</hi> Philips <hi>Parish.</hi>
+                           </p>
+                           <closer>
+                              <signed>Henry Goldwell <hi>Sec'</hi>
+                              </signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="57" facs="tcp:169837:32"/>
+            <p>
+               <hi>The further we proceede in our discovery of these mens Actions, the more fallacies we shall meete withall. If they had said these Gentlemen formerly fined (being part of the twenty) had voluntarily and freely promised to pay one hun<g ref="char:EOLhyphen"/>dred and ninety pounds of</hi> Sugar, <hi>they had spoke sense, though not truth; but they say con<g ref="char:EOLhyphen"/>sented: now where a consent is given there must be something Commanding, requiring or de<g ref="char:EOLhyphen"/>siring a consent, which being granted, the Act is not free nor voluntary, but is occasioned either by force or perswasion; you have already heard the moving cause which is compulsive, they must pay these Fines, or the Army shall eate them into better manners; If this be not enough, pray take notice of their proceedings (with the rest) in this their Act, where they say expresly, shall pay such quantities of</hi> Sugars <hi>and</hi> Tobacco <hi>for a Fine and Ransome for their of<g ref="char:EOLhyphen"/>fence, and Delinquency, &amp;c. Now that these they looke upon as their chiefe opposers, should be left to a free choyce of paying or not paying of Fines; And those that are not in so high a Nature lookt upon, is compell'd to it, this we understand not; and that these men should vo<g ref="char:EOLhyphen"/>luntarily give away</hi> 190000 <hi>pounds of</hi> Sugar, <hi>whosoever beleeves, will finde himselfe guilty of mistaking; but we must not expect to find either order or honesty in their proceedings, they are</hi>
+               <pb n="58" facs="tcp:169837:33"/>
+               <hi>resolved upon the designe, and it must and shall goe forward right or wrong. They are still putting false names upon their Acts and pro<g ref="char:EOLhyphen"/>ceedings, in their Propositions they are requi<g ref="char:EOLhyphen"/>ring an Act of oblivion for their lawfull taking Armes (as they say) for the defence of the Go<g ref="char:EOLhyphen"/>vernour and publick, but it plainly appears it was for the offence of both; they proceede and title this their Act,</hi> (An Act for the preservation of the present and future peace of this Island) <hi>when experience cries already aloud in our eares, and tells us, it is for the (destruction) of the present and future peace of the Island. They add,</hi> and for the punishing of the late disturbers thereof, <hi>this they might most properly have left out, (themselves being the men) whom time and happy successe may cause to be found out with<g ref="char:EOLhyphen"/>out a Lanthorne and a Candle: These Officers they nominate to be tryed by a Court Marshall, are the Commanders of those forces now raised by the Governours Command; and of that Regiment raised by their owne device, as was formerly hinted in the preceding part of our discourse. This is the fruits of their first weeks proceedings, (which must be and was published in every Parish-Church in the Island, for the peopler Satisfaction, who expect to heare of a plot discovered, in which expectation we will leave them, and proceed to the next, which</hi>
+               <pb n="59" facs="tcp:169837:33"/>
+               <hi>is (by them called) a Commission for Composi<g ref="char:EOLhyphen"/>tions of Delinquents Estates.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>By the Governour, Councell, and Assembly:</head>
+                        <p>ORdered <hi>that Sir</hi> Richard Pearse, <hi>Co<g ref="char:EOLhyphen"/>lonel</hi> Humfry Waldrond, <hi>Lieu<g ref="char:EOLhyphen"/>tenant Colonel</hi> Thomas Ellis, <hi>Captaine</hi> George Martin, <hi>Captine</hi> Henry Guy, <hi>Cap<g ref="char:EOLhyphen"/>taine</hi> George Standfast, <hi>Master</hi> Peter Watson, <hi>and Master</hi> John Wadlo, <hi>or any three of them, whereof Colonel</hi> Waldrond, <hi>Lieutenant Colonel</hi> Thomas Ellis, <hi>or Cap<g ref="char:EOLhyphen"/>taine</hi> Henry Guy, <hi>to be one) Convene and sit at the house of Master</hi> John Jobsons <hi>at the bridge, three dayes every wecke, and oftner if they see occasion; For the audi<g ref="char:EOLhyphen"/>ting and receiving of the accompts of all such well-affected persons, who have sustain<g ref="char:EOLhyphen"/>ed any damages by quartering the late forces, or who have contributed to the re<g ref="char:EOLhyphen"/>liefe</hi>
+                           <pb n="60" facs="tcp:169837:34"/>
+                           <hi>and supply of provisions, and to order payment, as goods shall be brought in or levied upon Delinquents Estates; which by the said Commissioners or any three of them, (whereof the said Colonel</hi> Waldrond, <hi>Lieu<g ref="char:EOLhyphen"/>tenant Colonel</hi> Thomas Ellis, <hi>or Captaine</hi> Henry Guy <hi>to be one) is to be Rated and Assessed according to the tenour of an Act of the Governour, Councell, and Assembly, al<g ref="char:EOLhyphen"/>ready published; and levie the same by di<g ref="char:EOLhyphen"/>stresse and present Sale, if not otherwaies satisfied; The same to be done by such per<g ref="char:EOLhyphen"/>son or persons as the said Commissioners or any three of them, (whereof the said Colonel</hi> Waldrond, <hi>Lieutenant Colonel</hi> Ellis, <hi>or Captaine</hi> Guy <hi>to be one) shall appoint, giving and allowing them reasonable sal<g ref="char:EOLhyphen"/>larie for the same out of the said Assessments; and where they shall finde occasion to Rate and Assesse higher or lower then is menti<g ref="char:EOLhyphen"/>oned in the said Act; and if the party De<g ref="char:EOLhyphen"/>linquent will not submit to it, the same to be referred to the Assembly; Power is here likewise given to the said Commissioners or any three of them, (whereof Colonel</hi> Wal<g ref="char:EOLhyphen"/>drond,
+<pb n="61" facs="tcp:169837:34"/>
+                           <hi>Lieutenant Colonel</hi> Ellis, <hi>or Cap<g ref="char:EOLhyphen"/>taine</hi> Henry Guy <hi>to be one) to Sequester any Delinquents Estates or goods that are gone away off the Island, and the same put in such safe hands, that the publicke may be answe<g ref="char:EOLhyphen"/>red of the maine profits and proceede there<g ref="char:EOLhyphen"/>of. Further they are hereby enabled to re<g ref="char:EOLhyphen"/>ceive the said Assessments and profits of Se<g ref="char:EOLhyphen"/>questrations, and to take account of the charges of the Army, and make satisfaction according to the Act, and to receive all such debts as are any waies due to the said Delinquents. And if the Estates of the said</hi> Independents <hi>(by yearely revenue▪ cannot in reasonable time defray the said Asses<g ref="char:EOLhyphen"/>ments and satisfie their just debts; The afore<g ref="char:EOLhyphen"/>said Commissioners or any three of them have hereby full power and authority, to sell or otherwaies dispose of the Delinquents Estates both personall, and reall to de<g ref="char:EOLhyphen"/>fray the same; having respect to the Wives and Children of such the said</hi> Indepen<g ref="char:EOLhyphen"/>dents <hi>which are in this Island; and in what<g ref="char:EOLhyphen"/>soever clause or thing herein exprest, the power intended to be granted is not fully</hi>
+                           <pb n="62" facs="tcp:169837:35"/>
+                           <hi>given; the same is left to their judgements and discretions, or any three of them, (whereof the said Colonel</hi> Waldrond, <hi>Lieu<g ref="char:EOLhyphen"/>tenant Colonel</hi> Ellis, <hi>or Captaine</hi> Henry Guy <hi>to be one shall seeme good, and conduce to the end aforesaid;</hi>
+                        </p>
+                        <closer/>
+                        <postscript>
+                           <p>To be published in <hi>Philips-Parish,</hi>
+                              <date>
+                                 <hi>May</hi> 23. 1650.</date>
+                           </p>
+                           <closer>
+                              <signed>
+                                 <hi>H: Goldwell</hi> Sec'</signed>
+                           </closer>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>You here see the great care they take for an exact proceeding and close carrying on of their designe, and having begot a beliefe in the peo<g ref="char:EOLhyphen"/>ple of their owne Faction, that the aforesaid plot (fathered upon the <hi>Independents)</hi> was a most horrid plot, and would undoubtedly have beene brought about, had not their wisdomes discovered and prevented it; with this Siren song they have lull'd the poore People fast asleepe, and so leave them, and proceed to the further putting off their designes in execution, to which purpose (as here you see) they have drawne up a very large Commission for the Le<g ref="char:EOLhyphen"/>vying of Fines upon mens Estates, higher or lower, at their pleasure, and to make Sale there<g ref="char:EOLhyphen"/>of, if the Fines they impose be not satisfied ac<g ref="char:EOLhyphen"/>cording
+<pb n="63" facs="tcp:169837:35"/> to their Order and Commands. But not a word now of a Legall tryall, such pro<g ref="char:EOLhyphen"/>ceedings are out of date with them, and now Will and Power is all in fashion: In their first Act they are pleased to give us leave to enjoy (or rather looke upon our Estates whilst they enjoy them) for the space of three months next ensuing; But here is new news a comming by and by, you must not expect any (acting by such principles as they doe) but be reall in any thing but fallacies, plentifully indued, with which we will leave them, and a litle take notice of the people, who generally begin to be weary with sleeping, and now grow sick of an expectation, wondering there is no further discovery made of this <hi>Independents</hi> plot so long discourst of, and hearing of the great Fines and Banish<g ref="char:EOLhyphen"/>ment imposed upon them without any Legall tryall in the face of the Country as was expect<g ref="char:EOLhyphen"/>ed, they begin to whisper somewhat loud, and to expostulate the businesse thus; That if these <hi>Independents</hi> (as they call them) were guil<g ref="char:EOLhyphen"/>ty of so horrid a plot as they had given out they were, why were they not prosecuted in law, and punished according to the nature of their so heinous offence? But if they had not of<g ref="char:EOLhyphen"/>fended in that nature, why were they so highly Fined, (and Banished) not knowing for what? Further alledging that these men so fined and
+<pb n="64" facs="tcp:169837:36"/> Banished, had (the most of them) lived a long time in the Island, many of them having beene men of Eminency in place of Authority, and had ever laboured and endevoured to set designes a foote for the good and benefit of the Island; That they were (generally) men of good Estates in the Island, and having so long beene Studiers of peace, it did not sound well that they should now be disturbers of the same, further considering that <hi>Waldrond</hi> and his adhe<g ref="char:EOLhyphen"/>rents were men but newly advanced to place of Authority, and besides men of no fortunes there, onely had thrust themselves into Plantations; which as yet more properly appertained to o<g ref="char:EOLhyphen"/>thers then themselves; That they had deluded them by pretending the <hi>Independents</hi> were in Armes, intending their surprisall and Ruine. That being advanced very neere them they found it not so, but to the contrary none were in Armes but by the Governours order, and who had upon his Command disbanded and the like, upon these and the like considerations; The Soldiery Petitioned to be disbanded, seeing none was found in any such posture as was pre<g ref="char:EOLhyphen"/>tended to them. <hi>Waldrond</hi> and his abettors, finding the people begin to grow sensible, and by their discourse had together to sift out the truth of the businesse: They must take counsell together, what is best to be done to prevent the
+<pb n="65" facs="tcp:169837:36"/> peoples any further being privie to the mystery of their iniquity; and finding no way of conve<g ref="char:EOLhyphen"/>niency but one, they conclude to hasten the de<g ref="char:EOLhyphen"/>parture of those they purposed to Banish, which they proceede in, and performe, under the pre<g ref="char:EOLhyphen"/>tence that keeping of forces a foote was very chargeable to the Country. Now what neede there was for keeping of forces a foote, (seeing they had disarmed all they pleased) we shall leave to the judicious to consider of; and pro<g ref="char:EOLhyphen"/>ceede to the Act for present banishment, it be<g ref="char:EOLhyphen"/>ing as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="act">
+                        <head>
+                           <hi>By the Governour and Gentlemen of the Assembly, the</hi> 23. <hi>day of</hi> May <hi>Anno.</hi> 1650.</head>
+                        <p>
+                           <hi>WHereas</hi> by a Statute lately Enacted and published within this Island, it was de<g ref="char:EOLhyphen"/>clared that all <hi>Independents,</hi> Non conformists to the Doctrine and Discipline of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and others their Aydors, and abettors, in the disturbance of the peace of this Island, should be<g ref="char:EOLhyphen"/>sides their Fines depart from hence within three Months after the publication; And that till then Guards of Horse and Foote were Ordered to be kept for the security of the Island, in foure severall
+<pb n="66" facs="tcp:169837:37"/> places of the same, which Guards are since found to be a matter of great charge, and to bring many o<g ref="char:EOLhyphen"/>ther great Inconveniences to the Inhabitants. It is therefore <hi>Ordered</hi> hereby, that for the speedy freeing of the Country from their aforesaid great charges and feares, That such of the said <hi>Indepen<g ref="char:EOLhyphen"/>dents</hi> (and their adherents) as are hereafter nomi<g ref="char:EOLhyphen"/>nated shall depart this Island, on or before the se<g ref="char:EOLhyphen"/>cond day of <hi>July</hi> now next ensuing, under paine of Confiscation of their whole Estates, and incurring the further censure of the Governour and Counsell. And it is further <hi>Ordered,</hi> that Captaine <hi>John Maniford,</hi> Captaine <hi>George Briggs,</hi> Captaine <hi>Robert Houper,</hi> Captaine <hi>John Hokeridge,</hi> Captaine <hi>Henry Ferris,</hi> and all other adherents to the late disturbers of the peace of this Island, who have Commissions either Marshall, or Civill, forth<g ref="char:EOLhyphen"/>with bring them in to the Commissioners of Exa<g ref="char:EOLhyphen"/>mination at Master <hi>John Jobsons</hi> House, to be cancelled, and Act no more by vertue thereof; And that whosoever of the said Delinquents (or their adherents) shall after notice hereof be found to weare any weapon or Armes offensive, shall forthwith by any Officer Civill or Marshall, (or by any Autho<g ref="char:EOLhyphen"/>rity derived from them) be disarmed and Com<g ref="char:EOLhyphen"/>mitted to custody, untill he be sent off the Island.</p>
+                        <closer>
+</closer>
+                        <postscript>
+                           <p>
+                              <hi>To be published in</hi> Philips <hi>Parish.</hi>
+                           </p>
+                           <closer>
+                              <signed>Henry Goldwell.</signed>
+                           </closer>
+                        </postscript>
+                        <postscript>
+                           <pb n="67" facs="tcp:169837:37"/>
+                           <head>The Names of the DE<g ref="char:EOLhyphen"/>LINQVENTS.</head>
+                           <list>
+                              <head>In PETERS and <hi>All-Saints</hi> Parish.</head>
+                              <item>
+                                 <hi>WIlliam Garrit</hi>
+                              </item>
+                              <item>
+                                 <hi>Rich. Ormond</hi>
+                              </item>
+                              <item>
+                                 <hi>Robart Clark.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Wood.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Nokes.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iames Clinket,</hi> and his Wife.</item>
+                              <item>
+                                 <hi>Thomas Miller.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Bennit.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Martin.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Gibbs.</hi>
+                              </item>
+                              <item>Captaine <hi>Nathaniel Stark.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>In ANDREW Over-Hills Parish.</head>
+                              <item>
+                                 <hi>HUgh Lemmon.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Clincket,</hi> and his Wife.</item>
+                              <item>
+                                 <hi>Iohn Parris.</hi>
+                              </item>
+                              <item>
+                                 <hi>Humfrey Waterman.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Marshall,</hi> and his Wife.</item>
+                              <item>
+                                 <hi>Josias Gardiner.</hi>
+                              </item>
+                              <item>Capt. <hi>Iames Futter.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Thurburne.</hi>
+                              </item>
+                              <item>
+                                 <hi>Adam Morgan.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Wall,</hi> Merchant.</item>
+                           </list>
+                           <list>
+                              <pb n="68" facs="tcp:169837:38"/>
+                              <head>In PHILLIPS Parish.</head>
+                              <item>
+                                 <hi>ANdrew Walm<g ref="char:EOLhyphen"/>sley.</hi>
+                              </item>
+                              <item>Capt. <hi>Rich. Sanders.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iames Curtis.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nicholas Foster.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Lea.</hi>
+                              </item>
+                              <item>Lieut. <hi>Miles Brath<g ref="char:EOLhyphen"/>wait.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Evans.</hi>
+                              </item>
+                              <item>Lieutenant. <hi>Francis Whitfield.</hi>
+                              </item>
+                              <item>
+                                 <hi>Robert Pike.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Perkins</hi> Chirurgion.</item>
+                              <item>Captaine <hi>Renoald Alline.</hi>
+                              </item>
+                              <item>
+                                 <hi>Martin Linton.</hi>
+                              </item>
+                              <item>
+                                 <hi>Martin Bently.</hi>
+                              </item>
+                              <item>Lieut. <hi>Iohn Iohnson.</hi>
+                              </item>
+                              <item>Lieutenant <hi>Thomas Rouse.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>In GEORGES Parish.</head>
+                              <item>
+                                 <hi>FRancis Reaines,</hi> and his Wife.</item>
+                              <item>
+                                 <hi>Iohn Faune,</hi> Esq.</item>
+                              <item>
+                                 <hi>Iohn Bonner.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Parker.</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Thrall.</hi>
+                              </item>
+                              <item>Captaine <hi>Thomas Midelton.</hi>
+                              </item>
+                              <item>Lieutenant Colonel <hi>Iames Drax.</hi>
+                              </item>
+                              <item>
+                                 <hi>Constant Silvester.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iames White.</hi>
+                              </item>
+                              <item>
+                                 <hi>George Frye.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>In JAMES, and THOMAS Parishes.</head>
+                              <item>
+                                 <hi>THomas Smith.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nathaniel Wat<g ref="char:EOLhyphen"/>kins.</hi>
+                              </item>
+                              <pb n="69" facs="tcp:169837:38"/>
+                              <item>
+                                 <hi>Nicholas Simmons.</hi>
+                              </item>
+                              <item>
+                                 <hi>Morgan Powell.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Bonner,</hi> Chir.</item>
+                              <item>
+                                 <hi>Iohn Dorrill.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Ratsey.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Nowell.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Pearse.</hi>
+                              </item>
+                              <item>Captaine <hi>Edward Thompson.</hi>
+                              </item>
+                              <item>
+                                 <hi>Francis Deane.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Mathews.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Lake.</hi>
+                              </item>
+                              <item>
+                                 <hi>Rodger Collumbell.</hi>
+                              </item>
+                              <item>Serjant Major <hi>Ousley.</hi>
+                              </item>
+                              <item>
+                                 <hi>Samuel Hall.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iames Teague.</hi>
+                              </item>
+                              <item>
+                                 <hi>William Banester.</hi>
+                              </item>
+                              <item>
+                                 <hi>Walter War.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iosias Verin.</hi>
+                              </item>
+                              <item>
+                                 <hi>Harris,</hi> dwelling with <hi>Bonner</hi> the Chir.</item>
+                              <item>
+                                 <hi>George Balle.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Lownes.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Aldredy.</hi>
+                              </item>
+                              <item>
+                                 <hi>Prat</hi> a Carpenter.</item>
+                              <item>
+                                 <hi>Giles Lorance.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>In JOHNS Parish.</head>
+                              <item>
+                                 <hi>JOhn Howlder.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Tot.</hi>
+                              </item>
+                              <item>
+                                 <hi>George Foster.</hi>
+                              </item>
+                              <item>
+                                 <hi>Peter Garrit.</hi>
+                              </item>
+                              <item>Mistris <hi>Pyard.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>In MICHAELS Parish.</head>
+                              <item>
+                                 <hi>ANthony Laine.</hi>
+                              </item>
+                              <item>
+                                 <hi>Samuel Clark.</hi>
+                              </item>
+                              <item>Captaine <hi>Iohn Ma<g ref="char:EOLhyphen"/>niford.</hi>
+                              </item>
+                              <item>
+                                 <hi>Nicholas Butler.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Redman.</hi>
+                              </item>
+                              <item>
+                                 <hi>Christopher Line.</hi>
+                              </item>
+                              <item>
+                                 <hi>Daniel Kempe.</hi>
+                              </item>
+                              <item>Captaine <hi>Howell Morris.</hi>
+                              </item>
+                              <pb n="70" facs="tcp:169837:39"/>
+                              <item>
+                                 <hi>Roger Hogburne.</hi>
+                              </item>
+                              <item>
+                                 <hi>Thomas Browning.</hi>
+                              </item>
+                           </list>
+                           <list>
+                              <head>In CHRIST<hi>
+                                    <g ref="char:EOLhyphen"/>Church</hi> Parish.</head>
+                              <item>
+                                 <hi>RIchard Berry.</hi>
+                              </item>
+                              <item>Lieu. <hi>Christian Broukhaven.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Berre.</hi>
+                              </item>
+                              <item>
+                                 <hi>Iarves Wiber.</hi>
+                              </item>
+                              <item>
+                                 <hi>Ieremy Deacon.</hi>
+                              </item>
+                              <item>Lieutenant <hi>Thomas Hackelton.</hi>
+                              </item>
+                           </list>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Act being (by their Order) published, is so farre from giving the People satisfaction, that it rather begets further jelousies; for they looke upon this Act as the conclusion of the businesse, and that now it is in vaine for them to expect any further or other proceedings, but that all is meerely done under a pretence to bring designes about for the accomplishing of their owne private ends. This doth not a little trouble these new modell'd States men, to see that the People begin more and more to discover them; And therefore they conclude (once more) to make a show of doing some<g ref="char:EOLhyphen"/>thing to the purpose, and therefore a Com<g ref="char:EOLhyphen"/>mission is forthwith drawne up for certaine particular men therein nominated; for the sitting and summoning in of such of the Coun<g ref="char:EOLhyphen"/>trey, as they shall thinke fit, to see if possibly
+<pb n="71" facs="tcp:169837:39"/> they could fright some (children-like) to say after them, that so if possibly they might pick up some thing or other to charge us withall, that might be suteable to their scandalous Li<g ref="char:EOLhyphen"/>bells and forgeries, which they have unjustly charged us withall, in their Acts and Declara<g ref="char:EOLhyphen"/>tions formerly by their Order published.</p>
+            <p rend="indent">
+               <hi>The Commission followeth,</hi> viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="commission">
+                        <head>By the Governor, Councell, and Assembly: <hi>A Commission for the Exami<g ref="char:EOLhyphen"/>nation of Witnesses;</hi> Concerning the late Disturbers of the Peace of this Island.</head>
+                        <p>ORDERED, <hi>That Col.</hi> Thomas Modiford, Edward Waldrond, <hi>Esq. Mr.</hi> Francis Williams, <hi>Captaine</hi> John Higinbotham, <hi>Captaine</hi> Jabez Whitticar, <hi>Lieutenant Colonell</hi> James
+<pb n="72" facs="tcp:169837:40"/> Browne, and <hi>Master</hi> Nicholas Edwards, <hi>or any three of them (whereof the said Colonell</hi> Modyford, Edward Wal<g ref="char:EOLhyphen"/>drond <hi>Esquire, or Captaine</hi> Jabez Whiti<g ref="char:EOLhyphen"/>car <hi>to be one) convene and sit three dayes every weeke (or oftner if they see occasi<g ref="char:EOLhyphen"/>on) at the House of Master</hi> John Jobson <hi>at the bridge; And to administer (Oath) to any person or persons, whom they shall thinke fit,</hi> For the discovery of the late Disturbers of the Peace of this Island; <hi>And to commit to prison such person or persons, as they in their judgements shall thinke fit to deserve it: And it is further</hi> Ordered, <hi>and the said Commissioners or any three of them (whereof Col.</hi> Thomas Modiford, Edward Waldrond <hi>Esquire, or Master</hi> Francis Williams, <hi>to be one, have hereby full power and authority, by Warrant (or otherwayes,) To summon any person or persons whatsoever to appeare before them, to give in their evidence and testimony about the Premisses, and to punish the refusers, and contemners as they in their discretions shall thinke fit, accord<g ref="char:EOLhyphen"/>ing</hi>
+                           <pb n="73" facs="tcp:169837:40"/>
+                           <hi>to the nature of the contempt. Also the Commissioners for Compositions are or<g ref="char:EOLhyphen"/>dered to pay the Messengers, and Clarkes imployed, or that shall be imployed in the Execution of this Order and Commission, and defray the charges for the diet of the said Commissioners, who, or any three of them (whereby Colonell</hi> Thomas Modi<g ref="char:EOLhyphen"/>ford, Edward Waldrond <hi>Esquire, or Master</hi> Francis Williams <hi>to be one) have hereby full power and authority to act, and doe all things requisite, for the</hi> Discovery <hi>of the said</hi> Disturbers, <hi>as to them shall seeme good and conducing to the ends afore<g ref="char:EOLhyphen"/>said.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <date>May 23. 1650.</date>
+                           </dateline>
+                           <signed>H. Goldwell. <hi>Secr.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>You may take notice of their former Acts for Fines and banishment, wherein they have proceeded so far, that they have nominated every particular man they aime at, and have prefixed an absolute day by which they are to depart, under the penalty of forfeiting all their whole Estates; but this all is not all the all they
+<pb n="74" facs="tcp:169837:41"/> have to say, for we must undergoe a further censure of the Governour, Counsell, and As<g ref="char:EOLhyphen"/>sembly; doubtlesse they will now have our Lives, for our Estates are already gone, and yet a further censure is to passe upon us. If we will not be gone by the second of <hi>July,</hi> and leave our estates to be managed by such as they can confide in; whether any Ships will carry us or not, gone we must be, and no question should, to our long home, had not the pro<g ref="char:EOLhyphen"/>vidence of God otherwayes provided for us.</p>
+            <p>You have seene their proceedings in their former Declarations, and Commissions (be<g ref="char:EOLhyphen"/>fore this last) wherein they accuse severall persons of being Sectaries, Non-conformists, Disturbers of their peace, and the like; you finde them fining and banishing men under these pretences, and by these Fines and Banish<g ref="char:EOLhyphen"/>ments to put an end to that businesse. But you may please to take notice, that after all this is done they grant a Commission to such and such men, to call before them such persons as they shall thinke fit, <hi>For the discovery of the late Disturbers of the Peace of this Island.</hi> First, they Fine men (naming them) which they Fine and banish as Disturbers of the peace, and then grant a Commission for the examining of Witnesses, and to doe all thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs requisite for the discovery of the said D<gap reason="illegible" resp="#keyers" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>bers, please but
+<pb n="75" facs="tcp:169837:41"/> to view their Commission, and these you shall finde the expresse words of it; which present you with an admirable (we will not say excel<g ref="char:EOLhyphen"/>lent) piece of injustice. This is absolutely to hang men, and then sit and judge them; But <hi>Waldrond</hi> wants not an excuse for this, he hath not served an Apprentiship for nothing, he can father this illegitimate upon the Clarke, as his brother did the nonsence in the Act and Oath; and tell you it was granted for a fur<g ref="char:EOLhyphen"/>ther discovering of the intended plot, the <hi>In<g ref="char:EOLhyphen"/>dependents</hi> had against them; or the discovery of a greater number of persons, that thereby their summes of <hi>Sugars</hi> might be augmented. And this wee are subject to believe, for some of themselves have boasted that their designe was for <hi>Sugar,</hi> of which (by the course they have taken) they are in a great possibility to be masters of vast sums, for we are banished, and must not leave any to act for us, but such as they can confide in; so that in plaine english, they have granted this last Commission to blinde the Countrey, and to deprive us of all, for in their whole discourse they cry for no<g ref="char:EOLhyphen"/>thing lesse then all, all, all; according to the tenor of the Commission (last mentioned) the Commissioners fit, and call before them such persons as they know are fit subjects for them to worke upon.</p>
+            <pb n="76" facs="tcp:169837:42"/>
+            <p> First, administring the Oath <hi>Ex officio;</hi> and then, having nothing else to discourse of, examine them who it was that told them that the Act and Oath did intrench upon their Liberties? and who it was that brought the Petition to them? Perswading them that the <hi>Independents</hi> were the originalls of it; and fur<g ref="char:EOLhyphen"/>ther, that they admired they would seeme to have any hand in subscribing a Petition with them, seeing they were Hereticks; <hi>And had murthered their Gracious dread Soveraigne Lord King</hi> CHARLES, and had banished his Sons, the now CHARLES the second, and his Brother the Duke of <hi>Yorke,</hi> and most mi<g ref="char:EOLhyphen"/>serably ruined the most Glorious Kingdom (one of them) in the World.</p>
+            <p>That their Religion led them to such actions, and therefore they must beware how they had a hand with them in any of their proceedings.</p>
+            <p>Then speakes another of that Fraternity and declares that the man (now in question before them) was his acquaintance, and had beene many years. That hee had borne office in the Church, and was very zealously affected that way: and never knowne to use the company of any Heretick or Sectaries, with any affection to their wayes.</p>
+            <p>Then another Brother he makes reply, that he heard a very good report of him, and that
+<pb n="77" facs="tcp:169837:42"/> he was perswaded the man had not willingly subscribed the Petition, but was meerely drawn in by these subtill Sectaries. Then Sir <hi>John sub<g ref="char:EOLhyphen"/>ject to the times, viz.</hi> one of the Burgesses of the Parish, he begins to declare himselfe to the great vindication of his Parishioners, assuring them that undoubtedly he was animated to it by others: for himselfe was a man subject to yeeld all due obedience to authority, and was never knowne to be guilty of any such thing be<g ref="char:EOLhyphen"/>fore, craving their pardon for him, und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rta<g ref="char:EOLhyphen"/>king that he shall never offend in the like kinde any more; by this time they have discourst old <hi>Jeremy</hi> into a pale countenance, and a won<g ref="char:EOLhyphen"/>dering what will become of him at last; but whilest he is betwixt hope and despaire, the head of the combined Faction begins to recrute his routed sences, by telling him that all the Gentlemen there had a good opinion of him, and for that cause they would for this offence omit fining him, in regard they had such a good relation of him, advertising him to avoide bringing himselfe into the like Premunire for the future. That he might see what misery the <hi>Independents</hi> had brought upon themselves by not submitting to them, advising him to take example at them, and learne not to oppose nor question the actions of men in authori<g ref="char:EOLhyphen"/>ty, &amp;c.</p>
+            <pb n="78" facs="tcp:169837:43"/>
+            <p>This poore soule goes away very thankfull, apprehending their clemency hath extended wonderfully towards him, and having escaped once, resolves that <hi>Balaams</hi> Asse shall remaine alone upon Record for complaining of his Ma<g ref="char:EOLhyphen"/>sters cruelty towards him; as for his part he will be an Assembly mans Asse to ride upon while he lives, ere he will be so frighted againe. Thus they fright poore simple Creatures into any thing they will have them to be or say. Now we must take notice that whilest these Com<g ref="char:EOLhyphen"/>missioners are sitting, and examining such as they see convenient for their purposes; There is another Generation, <hi>viz.</hi> the Commissi<g ref="char:EOLhyphen"/>oners for Compositions of Delinquents e<g ref="char:EOLhyphen"/>states, (as their brethren title them in their Commission) they fit under the same roofe, and their businesse is to summon all those that are nominated to be banished. And (because the Countrey shall thinke they will at last doe something) Warrants are published in every Parish-Church, (to this purpose) that all such persons as are appointed to depart the Island, make their personall appearance before the Commissioners at the <hi>Indean-</hi>Bridge on such a day; and for the further perswading the people into ignorance, the Commissioners for exa<g ref="char:EOLhyphen"/>mination, issue forth their Warrants to the Constables of every Parish, to summon all
+<pb n="79" facs="tcp:169837:43"/> those that subscribed the Petition (that were not ordered to depart the Island) to make their appearance at the House of Master <hi>John Jobsons</hi> at the <hi>Indian-</hi>Bridge, and there give their attendance, and not depart till they have licence from the said Commissioners so to do. Well, now the Countrey is possest with a new faith, and have a strong beliefe, that now at last this plot will be discovered, and their long expectations shall now be accomplished; But alas poore soules! they are as farre from the marke as ever they were, and are mecrely drawne into a fooles paradice, for there is a plot found out, but not that they expected. The Commissioners for Compositions doe (in<g ref="char:EOLhyphen"/>steed of bringing men to a legall Tryall) take a List of mens Lands, and under them to bring in their fines according to their first Act made and published to that purpose.</p>
+            <p>In plaine English, giving them to understand, that if they were not very quick in bringing in their Fines, they would take it by way of straint, or otherwayes make sale of their Estates ac<g ref="char:EOLhyphen"/>cording to the tenor of their Commission; this and onely this is their whole and onely businesse: and as for their brethren (the Com<g ref="char:EOLhyphen"/>missioners for Examination) they proceede as hath beene said, calling the Inhabitants of one Parish (this weeke) and the Inhabitants of
+<pb n="80" facs="tcp:169837:44"/> the next Parish the next weeke, and so divers weekes are spent in deferring of time till the Fines were gathered in, and the time expired that the banished had to stay, and if they could but blindefold the People till then, all would be well. All this time their Troops of Horse are riding about the Countrey, and those Cavees we formerly spoke of, are now mounted in<g ref="char:EOLhyphen"/>deed, upon the choicest Horses in the Countrey, and if they are not well mounted to day, to morrow they will be, for all the Horses the <hi>Independents</hi> have, are, (nay must, shall be at their service) and no opposition must be made against them, for they have an Act of oblivion, and Indemnity already past for what they had, or should doe whilest they were in Armes.</p>
+            <p>These are now the Lords of the Land, and command what they please, quartering one while at one Plantation, and another while at another, destroying and consuming the choycest Provisions the Countrey doth afford: and all too little to give them content, but must and doe receive from them all the incivill and abu<g ref="char:EOLhyphen"/>sive language they can devise; And this is all done to perswade the People that the plot begins to be discovered, and was dangerous, that not<g ref="char:EOLhyphen"/>withstanding we were all long before disarmed, yet they durst not discharge their forces of Horse, for feare of some treachery: with these
+<pb n="81" facs="tcp:169837:44"/> pretences, they have anew besotted and blin<g ref="char:EOLhyphen"/>ded the People, hoping so to keepe them till we were gone, and then the worke would be finished.</p>
+            <p>But whilest they feede themselves with these hopes, the people begin to awake from their long dreame of expectation, and consider with themselves what the event of all this would be at last; They likewise take into serious con<g ref="char:EOLhyphen"/>sideration these Peoples grosse abuses they put upon us, and how contrary to all reason they kept their Forces of Horse still up, to the great prejudice of the Countrey, and that a great uprore had beene raised in the Countrey to the Inhabitants great disquiet, and all under pre<g ref="char:EOLhyphen"/>tence of that which in all this time they had not in the least made appeare. That it appeared to them that they had a designe to set up them<g ref="char:EOLhyphen"/>selves and their adherents, and to make that Island a receptacle for men of their owne spirits: intending the ruine of all those that should oppose them; so that now it did con<g ref="char:EOLhyphen"/>cerne all men to looke about them, and if pos<g ref="char:EOLhyphen"/>sible (to the utmost of their powers) labour the prevention of what was like to fall upon them in generall. These considerations cause many People (though Cavaliers) to murmur at their proceedings: insomuch that some of them were questioned, and lookt upon as ad<g ref="char:EOLhyphen"/>herents
+<pb n="82" facs="tcp:169837:45"/> to and favourers of the <hi>Independents</hi> (as they call them.) This fire being kindled would not be so speedily quenched, but they resolve (in some measure) to make the grandees ac<g ref="char:EOLhyphen"/>quainted with their thoughts concerning their proceedings, and to that purpose be<g ref="char:EOLhyphen"/>ing at a Feast (which at present is the greatest of their imployments.) The twelfth day of <hi>Iune,</hi> 1650. the Captaines of their Army being likewise invited with them, made repaire into the roome where they were, and exprest themselves unto them to this purpose; That they heard there were great discontents in the Countrey occasioned by their so harsh dealing with the <hi>Independents,</hi> fearing that thereby Trade might be obstructed, which would be the certaine ruine of the Coun<g ref="char:EOLhyphen"/>trey; and that by their bidding defiance to the <hi>Parliament,</hi> (in so high a nature) they should be proclaimed Rebells to their native Countrey, and deprived of all their faire &amp; free corespon<g ref="char:EOLhyphen"/>dency, which they had so long enjoyed; That when they commanded them in Armes they pretended it was onely to show their loyalty, and forwardnesse to and for His Majesty; And further that a plot was pretended to them that the <hi>Independents</hi> had to destroy all the loyally affected to His Majesty, which as yet had not appeared according to expectation, with divers
+<pb n="83" facs="tcp:169837:45"/> the like expressions, desiring them that such a composure might be made of all differences betwixt them, and those they had accused, that a finall destruction and perpetuall ruine might not ensue, which was much feared by divers the Inhabitants of that Island.</p>
+            <p>These discontents of the People they seeme to remove, with incouraging them, that they needed not suffer their thoughts to be possest with any such thing, as that the <hi>Parliament</hi> would take notice of their proceedings against them, alledging, they had their hands full otherwayes, that if it were not so, they might fix their eye upon <hi>Virginia, Bermoudas,</hi> and the like, who had shown them a president for what they did; and yet the <hi>Parliament</hi> had not once taken notice of it; That they would find wayes of protection, <hi>viz.</hi> by the <hi>Hollanders,</hi> so that they neither did, nor would, neither had cause, to mind the <hi>Parliament,</hi> nor what they would, or could doe to them, with divers sleighting expressions, and contumelious words to the same effect.</p>
+            <p>These expressions (however smoothed up, and seemingly taken no notice of to the eye of the People) yet notwithstanding is Gall and Vineger, bitter unto them; now they apprehend the mystery of their iniquity begins to be dis<g ref="char:EOLhyphen"/>covered through the thin vaile of their preten<g ref="char:EOLhyphen"/>ces,
+<pb n="84" facs="tcp:169837:46"/> and <hi>Simeon</hi> accuses <hi>Levi</hi> of the same ini<g ref="char:EOLhyphen"/>quity he himselfe is guilty of; So that now or never they must save their credits with the People, who begin to be jealous of them; and the more because their Generall <hi>Waldrond</hi> his Maske of pretended loyalty is grown so thred<g ref="char:EOLhyphen"/>bare, that the face of covetousnesse appeares through it most apparently: the appearance of which frights the People out of a good opinion of them into a bad, and therefore with all ex<g ref="char:EOLhyphen"/>pedition something or other must be done: to which purpose, having nothing else to helpe themselves withall, they make this insuing pre<g ref="char:EOLhyphen"/>tence, and publish it, concluding that they wil at last satisfie the Peoples expectations, and their own lusts at once.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>By the Assembly, the 13. of <hi>June,</hi> 1650.</head>
+                        <p>WHereas <hi>the persons hereafter na<g ref="char:EOLhyphen"/>med, and others, have bin censured to depart this Island, have made use of the favour given them by the Generall Assemby</hi>
+                           <pb n="85" facs="tcp:169837:46"/>
+                           <hi>in their freedom and liberty hitherto allow<g ref="char:EOLhyphen"/>ed them, to no other purpose but to tra<g ref="char:EOLhyphen"/>vell from place to place to assert their own innocency, and the oppression of the Gene<g ref="char:EOLhyphen"/>rall Assembly in the punishing of them, which shall upon their Tryall appeare to the whole World to the contrary, which shall with as much speed as may be possible be prosecuted against them. And they have used likewise many seditious and scandalous speeches, to stir up many good People to in<g ref="char:EOLhyphen"/>gage with them, and discontents His Ma<g ref="char:EOLhyphen"/>jesties Subjects in this Island, by telling them we have lost our Trade with</hi> England, <hi>and impudently affirming the Generall As<g ref="char:EOLhyphen"/>sembly are ashamed of what they have done; And that none of them shall be banished, but that all banishment and order against them shall be repealed, of all which good proof in due time shall be made, to their fur<g ref="char:EOLhyphen"/>ther shame and punishment; And also to satisfie His Majesties loving Subjects, who have resented the licentiousnesse of these mens tongues familiarly apparent in all parts of this Island.</hi>
+                        </p>
+                        <pb n="86" facs="tcp:169837:47"/>
+                        <p> Be it therefore Ordered, <hi>That Lieuten<g ref="char:EOLhyphen"/>ant Colonell</hi> James Drax, <hi>Capt.</hi> Thomas Midelton, <hi>Captaine</hi> Renoyald Aline, <hi>Master</hi> Edward Thompson, <hi>Master</hi> Con<g ref="char:EOLhyphen"/>stant Silvester, <hi>Lieutenant</hi> Thomas Rouse, <hi>Lieut.</hi> John Johnson, <hi>Master</hi> Thomas Perkins, <hi>and Master</hi> Christopher Lyne, <hi>be committed prisoners to the House and Plantation of the said Lieutenant Colonell</hi> James Drax; <hi>whither they are to repaire on Munday next ensuing, and there to re<g ref="char:EOLhyphen"/>maine untill they be duly delivered by the Order of the Generall Assembly, and not to depart thence in the meane time with<g ref="char:EOLhyphen"/>out Licence of two Justices of the Peace, or the Summons of the Judge of a Court, to which upon any just occasion their at<g ref="char:EOLhyphen"/>tendance may be required, and that in their safe keeping, Colonell</hi> Waldrond, <hi>and Colonell</hi> Modiford, <hi>are hereby desired to raise a Guard of eighteene Musketeers, commanded by an Officer in Commission, according to Marshall Discipline untill the said Guard shall by the Order of the Ge<g ref="char:EOLhyphen"/>nerall Assembly, bee discharged, and</hi>
+                           <pb n="87" facs="tcp:169837:47"/>
+                           <hi>the same to be maintained at the charge of the persons above named.</hi>
+                        </p>
+                        <p>And be it further Ordered, <hi>That all other the said persons nominated to goe off this Island, be confined to their Houses and Plantations, and not to depart from thence untill the time appointed for their departure be accomplished, upon paine of forfeiting all their whole Estates, un<g ref="char:EOLhyphen"/>lesse upon any such departure, they have a Licence under the Hand of the two next Justices of the Peace, or Warrant from the Judge of a Court, who are hereby au<g ref="char:EOLhyphen"/>thorized upon any extraordinary occasion, to grant the same, and not other<g ref="char:EOLhyphen"/>wayes.</hi>
+                        </p>
+                        <closer>
+                           <signed>H. GOVLDVVELL. Secretary.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>These men want not of resolution to carry on their designe, they Banish us from all thats deare unto us, (that they can Banish us from) and yet they will have us acknowledge they have dealt very favourably with us; They charge us with Impudence, but it is <hi>Shimeis</hi> disposition to raile, and therefore we will passe it by as an
+<pb n="88" facs="tcp:169837:48"/> Imperfection in him, and onely take notice that their proceedings are carried on with confi<g ref="char:EOLhyphen"/>dence in the best nature; charging us with most palpable untruths, in all their Declarations, and who so will but take notice of them, shall find them fathering all manner of forgeries upon us. They charge us with going from place to place to stir up the people to side with us, accusing us of reporting they were ashamed of what they had done, which thing is most false. But this we conclude, that if the spirit of grace were so pre<g ref="char:EOLhyphen"/>valent with them, as the spirit of deceit and falshood is, they would and justly might be a<g ref="char:EOLhyphen"/>shamed of that way they have so unjustly and perniciously proceeded in; But it fares with them as with the Bankrout, when seeing he is over-shoos, steps further into the deepe of a de<g ref="char:EOLhyphen"/>sperate condition, and concludes it cannot be worse then it is; These men have decreed a wicked decree to ruine men, their Wives and Children to perpetuity, to advance themselves and theirs, and the <hi>Serpent</hi> that perswaded them to begin it (as yet) failes them not, but presses them on to effect the businesse they have begun; And to that purpose fits them with new supplies of false and scandalous suggestions, fathering the discovery of all their mischievous actions upon us, when all that are not wilfully blind may run and reade them. It is worthy the taking no<g ref="char:EOLhyphen"/>tice
+<pb n="89" facs="tcp:169837:48"/> of, how this potion (given them by their owne party) works, It inflames the blood, of<g ref="char:EOLhyphen"/>fends the stomach, disturbs the braine in so high a nature, that they are no better then meerely mad; And seeing their designes discovered (ere it was totally effected) they are now re<g ref="char:EOLhyphen"/>solved that as the Father of lies hath shewed them the way, they will with all diligence pro<g ref="char:EOLhyphen"/>ceede and finish a bloudy Tragedy, (if God by his providence doe not gratiously prevent it;) And being brought to their last shift, they will not looke upon any thing as an obstacle in their way, but lives as well as Estates shall goe to sa<g ref="char:EOLhyphen"/>tisfie their lusts. It was the expresse words of Colonel <hi>T. M.</hi> (one that is no small man a<g ref="char:EOLhyphen"/>mongst them) to one of our friends, that if he acted so high in the businesse as the <hi>Waldronds</hi> did, he would hang good store of us, and by that means engage the Country in the quarrell; So that the Country (if any opposition came) be<g ref="char:EOLhyphen"/>ing as deeply engaged as themselves, might stand by them: You may apparently see what their Intentions are, by this their last Act of Imprisoning and confining men; for seeing the Country will not have a good opinion of them, they will endeavour to procure it though by bloud, which they may easily doe, by picking out such a sort of men for Juries as they know are of their owne temper, and will not faile to
+<pb n="90" facs="tcp:169837:49"/> accomplish their designes for them, to the ut<g ref="char:EOLhyphen"/>most of their desires, in hopes of being advanced (by them) to places of Honour and Eminency; The consideration of these their utmost and un<g ref="char:EOLhyphen"/>paralleld proceedings against us, their variable proceedings in Acting, and re-acting, in their Proclaiming, and Anti-proclaiming of this, and that, one thing this day, and another the next, argues them to be double minded men, and un<g ref="char:EOLhyphen"/>stable in all their waies; making Lies the origi<g ref="char:EOLhyphen"/>nall of this their utmost quarrell, and their re<g ref="char:EOLhyphen"/>fuge in all their proceedings; and therefore so many of us as had any conveniency or opportu<g ref="char:EOLhyphen"/>nity, thought it more safe to submit to their former Acts of Banishment, then to stand to what might ensue, knowing their wills to be their Law, and having forces on foote to com<g ref="char:EOLhyphen"/>pell their wills to be Executed, there remains small hopes of any justice in their proceedings: and further, we had certaine Intelligence from some that Act with them, (though unwillingly) onely for the preservation of their Estates, That they were resolved upon the businesse, and their resolution was to Condemne so many men, by vertue of which Condemnation their Estates would be confiscated; (which is the onely thing they aime at) this being done as they see occasion, they would Reprieve some, or it might be most of them, upon acknowledging
+<pb n="91" facs="tcp:169837:49"/> of their proceedings to be just, and they merci<g ref="char:EOLhyphen"/>full men; If any seeme to be faithlesse in the be<g ref="char:EOLhyphen"/>liefe of this thing, in regard it is of so high and horrid a nature, that men should aforehand de<g ref="char:EOLhyphen"/>termine of proceedings in this nature, we shall cleare it by good &amp; perfect Testimony. But that will not neede, for we rest confident, wofull ex<g ref="char:EOLhyphen"/>perience hath made it manifest ere this time, up<g ref="char:EOLhyphen"/>on our friends left behind us; if the wisdome and providence of God doe not gratiously prevent them, by putting a hooke into their Nostrils, as many times he doth, whereby he restrains the Rage of ungodly, cruell, &amp; bloudy▪minded men.</p>
+            <p>Thus (courteous Reader) as briefely as with conveniency we could, you have the true and perfect relation of all their proceedings, of which if thou dost but take a serious view, (with the eye of impartiality) thou wilt find them (whilst charging us with a plot against them) most plainly plotting, complotting, and con<g ref="char:EOLhyphen"/>spiring first against us for our Estates, and now at last for our lives; we shall now proceede to a Declaration, wherein we shall not assert any thing but truth it selfe, which we declare and affirme to God and the world, (being well as<g ref="char:EOLhyphen"/>sured that we must give an account thereof, as well as of all other our words and actions at the last and dreadfull day of the Lord;) By which their shame and our innocency will most plaine<g ref="char:EOLhyphen"/>ly apppeare.</p>
+            <q>
+               <pb n="92" facs="tcp:169837:50"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>A DECLARATION, &amp;c.</head>
+                        <p>
+                           <hi>WHereas</hi> by the severall Acts and De<g ref="char:EOLhyphen"/>clarations of the publick Enemies of the peace of that late flourishing Island <hi>Barbadas;</hi> these our said Enemies doe (for the vindication of themselves and their mischievous Actions) most maliciously charge us guilty of intending and endea<g ref="char:EOLhyphen"/>vouring the disturbance of the peace, and destruction of them, and the alteration of Government in Church and State; with divers other suggestions, and fomenta<g ref="char:EOLhyphen"/>tions, wherewith they labour to blindefold those that ignorantly pin their faith upon their owne relation; without seriously exa<g ref="char:EOLhyphen"/>mining their subtill practices, and procee<g ref="char:EOLhyphen"/>dings, of which (though) whosoever takes a serious view, may receive full and absolute satisfaction; Yet for the further and better
+<pb n="93" facs="tcp:169837:50"/> information of Impartiall spirits, we have put forth this Declaration, which with their severall proceedings against us, we desire them to peruse and impartially to judge of; And if we in any particular appeare guilty of their Charge laid against us, then let the righteous smite us, and it shall be a kind<g ref="char:EOLhyphen"/>nesse; let them reprove us, and it shall be an excellent oyle which shall not breake our head.</p>
+                        <p>In the first place (as a prime piece of their policy) they begin with matter of Religion; Calling us seditious, schismaticall, and facti<g ref="char:EOLhyphen"/>ous persons, hereby endeavouring to make us appeare odious to the people, and Here<g ref="char:EOLhyphen"/>ticks in their esteeme, and appearing so to them. It is lawfull (in their judgements) to persecute and prosecute us to death; Their proceedings makes this appeare to be one of their Tenets, which they Imbrace from the <hi>Popish</hi> faith; To which we answer, (very briefely) in the words of the Apostle; <hi>That we confesse after the way which thy call Heresie, so worship we the God of our Fathers, believing all things that</hi>
+                           <pb n="94" facs="tcp:169837:51"/>
+                           <hi>are written in the Law and the Prophets,</hi> desiring with the Apostle, <hi>to know no<g ref="char:EOLhyphen"/>thing but Jesus Christ, and him crucified;</hi> being stedfastly assured that <hi>there is no o<g ref="char:EOLhyphen"/>ther name under Heaven, whereby we shall be saved,</hi> then by Jesus Christ; <hi>who is to us justification, Sanctification, and Redemption;</hi> desirous to be <hi>zealous of good works,</hi> because the Lord hath com<g ref="char:EOLhyphen"/>manded us to be <hi>Holy, as he is Holy,</hi> and because good works are profitable unto men, but not dreaming (as some doe) to merit our owne Salvation thereby; which <hi>glorious inheritance Jesus Christ hath already pur<g ref="char:EOLhyphen"/>chased with his precious bloud;</hi> To which <hi>precious fountaine, who so doth not come to wash, shall remaine bespotted with the Leprosie of Sin, and guilt to all Eter<g ref="char:EOLhyphen"/>nity.</hi> But we intend not any large discourse (at present) upon this particular, onely these few words that are spoken, are to the appre<g ref="char:EOLhyphen"/>hensions of those we desire to give satisfacti<g ref="char:EOLhyphen"/>on to, in this first particular, which is to point of worship.</p>
+                        <p>The next thing they object against us is,
+<pb n="95" facs="tcp:169837:51"/> our being stirred up by many false scandalls and suggestions fomented and spred abroad by the heads (say they) of the <hi>Independent</hi> Faction; In answer to which we positively declare, that we were not moved to doe what we did, (which was onely to Petition by any other person or persons, thing or things whatsoever, save only the persons &amp; actions of themselves declared in their <hi>Act</hi> &amp; <hi>Oath,</hi> which they would have imposed upon us, whereby at once they went about to deprive us of all our lawfull Rights and Priviledges, and to make us, and ours, slaves and vassalls to them and theirs to perpetuity; Obliging us by Oath, to maintaine them and their acti<g ref="char:EOLhyphen"/>ons (with our lives and fortunes) against all power whatsoever that should oppose them: So that though they should be guilty of all the unjust actions that it is possible for men to be guilty of under the Sun (as they are sub<g ref="char:EOLhyphen"/>ject enough to be) whether committed a<g ref="char:EOLhyphen"/>gainst our selves, or the authority established in <hi>England,</hi> (or both) or any authority from them derived, whereby they might (or should) call them to an account for their un<g ref="char:EOLhyphen"/>just
+<pb n="96" facs="tcp:169837:52"/> and destable actions of what nature soe<g ref="char:EOLhyphen"/>ver; Yet we must maintaine and defend them in their actions, and not onely so, but must acknowledge them done by good and lawfull authority; we would gladly pro<g ref="char:EOLhyphen"/>pound one question, which we state very plainely thus, A Servant engaged to serve his Master for a certaine tearme of yeares, is by his said Master (without any cause at all) so assaulted, and beaten, that his life is in great danger thereby; or at the best he shall lose an Arme, a Hand, an Eye, or some principall member, whether the said Ser<g ref="char:EOLhyphen"/>vant may not crave his patience, and petition him to forbeare his so violent proceedings, without offending the Law? This I pre<g ref="char:EOLhyphen"/>sume is granted he may freely doe, without any offence given to the Law at all; How unjust then doe those men appeare, in the judgements and apprehensions of all men: who because we have petitioned for the Arme of our just rights, the Hand of our knowne customes, and the Eye of our antient priviledges, which is our birthright; will most wilfully and cruelly destroy both Armes,
+<pb n="97" facs="tcp:169837:52"/> Hands, Eyes, Bodies, and Lives at once? That this they have endeavoured to doe, doth most evidently appeare by all their actions and proceedings, which we will leave to the judicious Reader to judge of, and proceed to the third particular of their accusation, which containes their grand charge in mattter of fact, <hi>viz.</hi>
+                        </p>
+                        <q>Have put themselves in Armes, and acted in an hostile manner, to the utter ruine of the Loyall Inhabitans of this Island, had not God in his great mercy prevented the same.</q>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Charge containes matter of Fact in a ve<g ref="char:EOLhyphen"/>ry high nature indeed, &amp; were it not that Sathan can transforme himselfe into an Angell of light, and when he intends the greatest mischiefes,
+<pb n="98" facs="tcp:169837:53"/> pretend the most of goodnesse, we should more then admire the fallacies of fraile man, (whose breath is in his Nostrils) who in the Morning flourisheth and boasteth great things, and in the Evening is cut downe and withered; who doth attempt to make God himselfe, as it were a Fig-leafe, to cover the nakednesse of their most detestable and abhorred actions: But leaving this we come to answer the particulars of their Charge. And first, as for Armes there were none taken up but by the Governours ex<g ref="char:EOLhyphen"/>presse order, and particular Commissions then immediately directed to Lieutenant Colonell <hi>James Drax</hi> and others. Secondly, the forces that were raised, did not exceede the number of one hundred and forty both Horse and Foote; who acted no hostility at all, save onely that one of <hi>Waldrond</hi> his Sonnes rideing about (with an Officer of theirs) to raise forces for the Assist<g ref="char:EOLhyphen"/>ance of their Army, was taken by one of the Scouts and brought to the house of Lieutenant Colonel <hi>Drax,</hi> where he received all civill re<g ref="char:EOLhyphen"/>spect, and was discharged soone after upon the Governours order; This is all that was done or offered to be done by any of the said Forces, (for which they had the Governours expresse order) upon whose Command they disbanded, being not guilty of any other Act of hostility then what is here declared. You may take notice
+<pb n="99" facs="tcp:169837:53"/> of a small party of Horse which the Governour had to waite upon him (after he had notice <hi>Waldrond</hi> was resolved to raise Rebellion) the number of which did not exceede thirty. As for any other Forces there were none raysed, save onely one Regiment, and that was by expresse Order from the Colonell thereof, who is none of the least of <hi>Waldronds</hi> Abettors; This Re<g ref="char:EOLhyphen"/>giment was commanded into the Field by the Lieutenant Colonell, Major, and severall Cap<g ref="char:EOLhyphen"/>taines thereof, at night, and in the morning they were all discharged, every man reparing to his owne Habitation, not having acted any hostility at all in the least.</p>
+            <p>This piece of Treachery you may reade at large in the foregoing Relation, which for bre<g ref="char:EOLhyphen"/>vity sake, and avoyding of reiteration, wee have omitted to insert here.</p>
+            <p>Thus <hi>Reader,</hi> thou hast a particular relation of all the forces raised (besides their owne Army) and of their Actions and Proceedings; by any of which, if we appeare guilty of their ruine, and the destruction of the Peace of that Island, doe Thou judge and passe sentence betweene Us; <hi>whilest we minde you of the Ori<g ref="char:EOLhyphen"/>ginall cause of the Governours issuing forth of those Commissions, formerly granted for the levy<g ref="char:EOLhyphen"/>ing of these few forces formerly spoken of;</hi> which was the contempt of his <hi>Declaration,</hi> which
+<pb n="100" facs="tcp:169837:54"/> hee put forth, upon his being given to under<g ref="char:EOLhyphen"/>stand, how active <hi>Waldrond</hi> and his abettors were in moving the People to Mutiny and Rebellion, as well by their scandalous Papers, and false Reports throwne and spread abroad, as other<g ref="char:EOLhyphen"/>wayes. A Copy of which <hi>Declaration,</hi> we have here inserted, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>By the GOVERNOUR.</head>
+                        <p>WHereas <hi>notice hath beene taken of the frequent scattering of scanda<g ref="char:EOLhyphen"/>lous Papers, in many parts of this Island, and many false rumours and reports have beene raised on purpose to beget intestine, and civill broyles, to the ruine and di<g ref="char:EOLhyphen"/>sturbance of the Peace and quiet which we now injoy.</hi>
+                        </p>
+                        <p>
+                           <hi>I doe therefore declare, that all such persons as shall hereafter be found guilty of spreading any such scandalous Papers, false Rumours and Reports, shall be pro<g ref="char:EOLhyphen"/>ceeded against and punished as Enemies to</hi>
+                           <pb n="101" facs="tcp:169837:54"/>
+                           <hi>the publick Peace of this Island; And I doe hereby require all Justices of the Peace, and other Officers in the severall parts of this Island (whom it may concerne) carefully to apprehend all such persons, and send them as Rebells to the Gaole.</hi>
+                        </p>
+                        <p>
+                           <hi>And I do likewise forbid any person, or persons to take up any Armes offensive to the Peace: or in any hostile manner upon paine of Death.</hi>
+                        </p>
+                        <closer>
+                           <dateline>Given under my Hand <date>this 29<seg rend="sup">th</seg> day of <hi>April,</hi> Anno Dom. 1650.</date>
+                           </dateline>
+                           <signed>PHILLIP BELL.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>You see this <hi>Declaration</hi> bearing date the 29. day of <hi>April</hi> 1650. And the thirtieth day of the same Moneth they are in Armes, and have raised an alarum in that part of the Coun<g ref="char:EOLhyphen"/>try, where their rising was, in contempt of the Governours Authority. You may also take notice that this <hi>Declaration</hi> doth enlarge our vindication; for themselves owne these Libells (mentioned at large in the Relation) con<g ref="char:EOLhyphen"/>taining such matter as is in them, which said Libells are by the Governour (justly Titled)
+<pb n="102" facs="tcp:169837:55"/> scandalous Papers, and the Libellers seditious, and turbulent persons, whose endeavour was to beget intestine and civill broyles amongst us. And good and just cause he had so to tearm them, for he sending to Colonell <hi>Shelle</hi> (who commanded the first Regiment that tooke up Armes,) That he should disband his forces, Hee received this Answer, that they would march up with Bullets in their mouths. Thus you see how they contemned authority in the highest nature, and whilest accusing others, themselves are the incendiaries that have studied and practized the Disturbance, Distraction and Desolation of the most florishing Island (in<g ref="char:EOLhyphen"/>habited by the <hi>English)</hi> in that part of the World.</p>
+            <p>Notwithstanding the plaine and palpable dis<g ref="char:EOLhyphen"/>covery of these mens deceitfull, and diaboli<g ref="char:EOLhyphen"/>call actions towards us, yet they still persist in their accusing of us guilty of a designe against them; of the which (God is our faithfull wit<g ref="char:EOLhyphen"/>nesse in Heaven) we are so cleare <hi>that such a thought hath never entered into our Hearts;</hi> but (notwithstanding all their uncivill and most absurd carriage towards us from time to time) wee have given all due respect to those in au<g ref="char:EOLhyphen"/>thority, both in matters Civill and Martiall. This we confesse, that some amongst us have from time to time, earnestly desired that some
+<pb n="103" facs="tcp:169837:55"/> moderation might be used, when wee have heard and seene them both Act and Speake in so high a nature as (from time to time) they did, both against <hi>Parliament</hi> and <hi>Army,</hi> deavouring to make them appeare (in the eye and esteeme of the People,) the most odious of men that ever acted upon the Theatre of the Earth; but all our desires were in vaine, for when we spoke of peace, they made themselves ready for war.</p>
+            <p>And wee must either subscribe to their Pro<g ref="char:EOLhyphen"/>ceedings, and sweare their <hi>Protestation</hi> against all opposition whatsoever, or otherwayes leave the Fruits of our long and tedious labours, and endeavours, which with the suffering of many and great hardships, and the passing through of many difficulties, wee have (through Gods blessing upon our indeavours) brought to such a measure of happy perfection, That no People under the Sun could have lived in a more hap<g ref="char:EOLhyphen"/>py condition then we should have done, had wee therewith injoyed a civill Government; But now these devouring Caterpillers have overcome the Land, and the fruits of our la<g ref="char:EOLhyphen"/>bours (for these many yeeres under that <hi>Tor<g ref="char:EOLhyphen"/>rid Zone)</hi> is now become a prey to their licen<g ref="char:EOLhyphen"/>cious covetousnesse, whilest wee must returne exiles to the Land of our nativity; which wee rather imbrace then to live (though
+<pb n="104" facs="tcp:169837:56"/> with the injoyment of our owne) under the Tyranny and Cruelty of such Antichristian People as they are, whose Belly is their God, whose glory is their shame, and whose lust is their Law; who scoffe at Religion, and make it a scorne and a by-word, who hate to doe Justice: and as for Judgement it is farre from them; As for the Lord Hee is not in their thoughts, neither doe they regard Him, nor will they chuse any of His wayes.</p>
+            <p>It had beene a double happinesse to us, if Providence had prevented (these detractors) from ever comming amongst us, seeing their onely desires and delights are, to fish in troubled Waters, who like devouring Caterpillers, and gnawing Wormes, have endeavoured the con<g ref="char:EOLhyphen"/>summation and destruction of that Common<g ref="char:EOLhyphen"/>wealth of <hi>England;</hi> And being (as hatefull Birds) routed out from thence, have laboured the eating out our bowells also.</p>
+            <p>They have had a suddaine rise from eating their bread at other mens Tables (the very chiefest of them) to possesse Plantations, Houses, Bread, tables and all; whilest the right owners a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e (by them banished) from relations, e<g ref="char:EOLhyphen"/>states. But Time and Providence may frustrate their expectations (which is to injoy them for ever) and cause the fruits of their mischievous actions justly to fall upon them, and their sud<g ref="char:EOLhyphen"/>daine
+<pb n="105" facs="tcp:169837:56"/> sorings aloft receive as speedy a down<g ref="char:EOLhyphen"/>fall, when their waxen wings shall be dissolved by the bright rayes of the Sun of impartiall Justice; which is now abroad in the World, and will in time (no question) finde them out, notwithstanding they have made a Covenant with Hell and Death, and having got the power of that part of the Earth into their hands, they thinke the power of Heaven cannot finde them out; but the contrary will (in good time) ap<g ref="char:EOLhyphen"/>peare to the World which, will make the very remembrance of them to be odious and hate<g ref="char:EOLhyphen"/>full.</p>
+            <p>This briefe <hi>Declaration</hi> we own, and affirme to be really truth it selfe, the which (with the foregoing Relation) we refer not to immode<g ref="char:EOLhyphen"/>rate and partiall men, for them we disowne, as impertinent Judges, knowing they rejoyce at their brethrens proceedings and successes, re<g ref="char:EOLhyphen"/>pining at nothing more then that themselves had not a hand in the businesse; hoping they may have it for a place of refuge when <hi>England</hi> (ashamed and overburthened with their abo<g ref="char:EOLhyphen"/>minable filthy loathsomenesse) shall spue them out; But to the moderate, judicious, and im<g ref="char:EOLhyphen"/>partiall Reader, wee refer their proceedings and our <hi>Declaration</hi> to judge of; who is best able to discerne of things, who will see our innocency most eminently shining through the
+<pb n="106" facs="tcp:169837:57"/> darke clouds of their aspersions, which they have raysed for a pretence of their imperious Actions and Proceedings; which they have writ in such Characters, that all the World may run and reade: To the never-dying infamie of them and theirs, to all succeeding Ages.</p>
+            <epigraph>
+               <q>
+                  <hi>Hold not thy Tongue O God; keepe not still silence; refraine not thy Selfe O God, for thine enemies make a murmuring, and they that hate thee have lift up the head; They have imagined craftily against thy People, and taken counsell against thy secret ones; They have said, come, and let us root them out that they be no more a People, and that the name of Israel may be no more in remembrance,</hi>
+               </q>
+               <bibl>Psal. 83. 1, 2, 3, 4.</bibl>
+            </epigraph>
+         </div>
+         <div type="acrostic">
+            <lg>
+               <pb n="107" facs="tcp:169837:57"/>
+               <l>
+                  <hi>T</hi>his Booke, who doth peruse, may plainely see</l>
+               <l>
+                  <hi>H</hi>orrid Rebellion, mask'd with Loyaltie,</l>
+               <l>
+                  <hi>I</hi>mpeaching others, of abhorred crimes,</l>
+               <l>
+                  <hi>S</hi>uch as were never acted, ere these times;</l>
+               <l>
+                  <hi>B</hi>ould Tyrants, that in <hi>England</hi> many yeares</l>
+               <l>
+                  <hi>O</hi>h grief to think! hath caused mournefull teares,</l>
+               <l>
+                  <hi>O</hi>ppressing her with Rapines, Murthers, and</l>
+               <l>
+                  <hi>K</hi>illing her Children, both by Sea and Land:</l>
+               <l>
+                  <hi>E</hi>ach striving how, he others might exceede,</l>
+               <l>
+                  <hi>W</hi>hilest this poore Isle, almost to death doth bleed;</l>
+               <l>
+                  <hi>A</hi>nd all pretend, tis for this very thing,</l>
+               <l>
+                  <hi>S</hi>ubjection and obedience, to the King,</l>
+               <l>
+                  <hi>W</hi>hilest this impious cruell Generation</l>
+               <l>
+                  <hi>R</hi>ejoyce to worke the ruine of that Nation,</l>
+               <l>
+                  <hi>I</hi>ehovah, from his highest Throne lookes down</l>
+               <l>
+                  <hi>T</hi>o see their actions, and thereat doth frown.</l>
+               <pb n="108" facs="tcp:169837:58"/>
+               <l> Because I am not in your wayes at all,</l>
+               <l>
+                  <hi>Y</hi>ou shall, saith he, with your inventions fall;</l>
+               <l>
+                  <hi>N</hi>ow at th'Eternalls Word, these Nimrods were</l>
+               <l>
+                  <hi>I</hi>n every place, pursu'd, and chaf'd with feare,</l>
+               <l>
+                  <hi>C</hi>hased in minde, by Gods Impartiall hand,</l>
+               <l>
+                  <hi>H</hi>ence they doe flie unto another Land.</l>
+               <l>
+                  <hi>O</hi>h Land, thy sorrowes, never did begin</l>
+               <l>
+                  <hi>L</hi>oe, till these bloudy Tyrants entred in,</l>
+               <l>
+                  <hi>A</hi>nd now the froth, and scum of <hi>Englands</hi> Nation</l>
+               <l>
+                  <hi>S</hi>trives for their ends, to worke thy desolation;</l>
+               <l>
+                  <hi>F</hi>or since that <hi>England</hi> would not, thou shalt be</l>
+               <l>
+                  <hi>O</hi>pprest, and ruin'd, by their Tyrannie:</l>
+               <l>
+                  <hi>S</hi>ease Tyrants sease, or Heavens will finde you out</l>
+               <l>
+                  <hi>T</hi>he second time, and give you such a Route,</l>
+               <l>
+                  <hi>E</hi>re long, that you shall forced be to flie</l>
+               <l>
+                  <hi>R</hi>ejected whilest you live, and live to die</l>
+               <l>The Sonnes of ever living infamy.</l>
+            </lg>
+         </div>
+         <div type="declaration">
+            <pb n="109" facs="tcp:169837:58"/>
+            <head>
+               <hi>In the Island</hi> BARBADAS, May <hi>the third,</hi> An. Dom. 1650.</head>
+            <p>
+               <hi>CHARLES STVART,</hi> Son to the late King, was with great solemnity proclaimed King of <hi>England, Scotland, France</hi> and <hi>Ireland &amp;c.</hi> Immediately thereupon the Booke of Com<g ref="char:EOLhyphen"/>mon Prayer was declared, to be the only Pattern of true worship, And com<g ref="char:EOLhyphen"/>manded to be distinctly, and duly read in every Parish Church, every Lords Day &amp;c.</p>
+            <closer>
+               <signed>H. GOVLDVVELL. Secretary.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="110" facs="tcp:169837:59"/>
+            <head>
+               <hi>At a Meeting of the</hi> Gover<g ref="char:EOLhyphen"/>nour, Counsell <hi>and</hi> Assembly, <hi>May</hi> the 7.</head>
+            <p>THE RIGHT HONORABLE, <hi>Francis</hi> Lord <hi>Willougby</hi> of <hi>Parham,</hi> having brought a Commission from the Right Honorable, <hi>James</hi> Earle of <hi>Carlile,</hi> as his Lieutenant Generall of all the Crebe Islands, his Honour was willingly, and humbly received, and his Commission ac<g ref="char:EOLhyphen"/>cepted of according to the Power and Con<g ref="char:EOLhyphen"/>tents thereof; And whereas it was the humble desires of the <hi>Governour, Counsell,</hi> and <hi>Assembly,</hi> to the Right Honorable the Lieutenant Generall, That in respect of the incertainty and distractions of the pre<g ref="char:EOLhyphen"/>sent Times, his Lordship would please to con<g ref="char:EOLhyphen"/>descend to the continuance of this present Assembly, and Government, under all Offices both Civill, and Marshall, for the space of three moneths. His Lordship was plea<g ref="char:EOLhyphen"/>sed to assent thereunto; and ordered accord<g ref="char:EOLhyphen"/>ingly.</p>
+            <closer>
+               <signed>
+                  <hi>H. Goldwell,</hi> Sec.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="111" facs="tcp:169837:59"/>
+            <head>POST-SCRIPT.</head>
+            <p>WHereas the Reader may haply be so curious, as to desire the Names of those persons that have suffered in the Island <hi>Barbadas;</hi> He may take notice that <hi>John Webster,</hi> Mate to Captaine <hi>Benjamin Treneman,</hi> had his Tongue cut, and was burned in both Cheekes with the Letter <hi>T.</hi> Also Lieutenant <hi>John Brandon</hi> was burn'd in the Cheekes as aforesaid: these both suffered the 12 day of <hi>January,</hi> 1649. about twelve a Clock; And whereas you finde the Discoverer of our Enemies mis<g ref="char:EOLhyphen"/>chievous intentions to be deciphered only by <hi>L. C. C. C.</hi> the Gentleman is Lieutenant Colonell <hi>Christopher Coddrington.</hi> Like<g ref="char:EOLhyphen"/>wise the Colonells Name that raised the Regiment, which you finde spake of that was betrayd, is Colonell <hi>Thomas Modi<g ref="char:EOLhyphen"/>ford;</hi>
+               <pb n="112" facs="tcp:169837:60"/> one thing you may take notice of, That since the committing of this to the Presse, there are divers more of our Banished Brethren come for <hi>England;</hi> and where<g ref="char:EOLhyphen"/>as you finde the Enemies of our Peace, in their Propositions, promising to main<g ref="char:EOLhyphen"/>taine and defend Captaine <hi>Phillip Bell,</hi> to continue Governour of that Island, they have turned him out with as much disgrace, as they promised Fidelity. ∵</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169837:60"/>
+         </div>
+      </body>
+   </text>
+</TEI>
